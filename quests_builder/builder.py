@@ -35,10 +35,15 @@ if __name__ == "__main__":
     with open(wiki_text_file_path) as wiki_text_file:
         quests_wiki_text = json.load(wiki_text_file)
 
+    wiki_titles_file_path = Path(config.EXTRACTION_WIKI_PATH / "extract_page_titles_quests.json")
+    with open(wiki_titles_file_path) as wiki_titles_file:
+        quest_titles = json.load(wiki_titles_file).keys()
+
     # Filter out non-quest entities
     name_exclusion_list = [
-        "Quests/", "Miniquests", "/Quick guide",
-        "Category:", "User:", "Quest series", "Barbarian Training"
+        "Quests", "Quest ", "Miniquest", "Quick guide",
+        "Category:", "User:", "Quest series",
+        "Barbarian Training", "Cutscene"
     ]
 
     # Start processing items
@@ -47,7 +52,7 @@ if __name__ == "__main__":
             continue
 
         # Initialize the BuildQuest class
-        builder = quest_builder.BuildQuest(quest_name, wiki_text)
+        builder = quest_builder.BuildQuest(quest_name, wiki_text, quest_titles)
 
         # Start the build quest population method
         quest_definition = builder.populate()

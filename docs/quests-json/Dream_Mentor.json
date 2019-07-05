@@ -25,8 +25,7 @@
             }
         ],
         "items": null,
-        "quests": null,
-        "misc": [
+        "quests": [
             "Lunar Diplomacy",
             "The Fremennik Trials",
             "Lost City",
@@ -38,7 +37,8 @@
             "Troll Stronghold",
             "Death Plateau",
             "Druidic Ritual"
-        ]
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

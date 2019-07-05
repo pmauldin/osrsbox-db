@@ -20,10 +20,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest",
-                "level": 55
-            },
-            {
                 "name": "Cooking",
                 "level": 53
             },
@@ -49,7 +45,8 @@
             "Druidic Ritual"
         ],
         "misc": [
-            "A partner"
+            "A partner",
+            "55 Quest Points"
         ]
     },
     "recommended_requirements": null,

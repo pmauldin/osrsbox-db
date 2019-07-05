@@ -16,12 +16,7 @@
     "required_for_completing": null,
     "requirements": {
         "quest_points": null,
-        "skills": [
-            {
-                "name": "Quest",
-                "level": 175
-            }
-        ],
+        "skills": null,
         "items": null,
         "quests": [
             "Desert Treasure",
@@ -34,17 +29,18 @@
             "Priest in Peril",
             "Waterfall Quest",
             "Horror from the Deep",
-            "Alfred Grimhand's Barcrawl miniquest",
-            "Freeing the Goblin generals",
-            "Freeing the Mountain dwarf",
-            "Freeing Evil Dave",
-            "Freeing the Lumbridge Guide",
-            "Freeing Pirate Pete",
-            "Freeing Skrach Uglogwee",
-            "Freeing Sir Amik Varze",
-            "Freeing King Awowogei"
+            "Alfred Grimhand's Barcrawl",
+            "Recipe for Disaster/Freeing the Goblin generals",
+            "Recipe for Disaster/Freeing the Mountain Dwarf",
+            "Recipe for Disaster/Freeing Evil Dave",
+            "Recipe for Disaster/Freeing the Lumbridge Guide",
+            "Recipe for Disaster/Freeing Pirate Pete",
+            "Recipe for Disaster/Freeing Sir Amik VarzeFreeing Skrach Uglogwee",
+            "Recipe for Disaster/Freeing Sir Amik VarzeFreeing Skrach Uglogwee",
+            "Recipe for Disaster/Freeing King Awowogei"
         ],
         "misc": [
+            "175 Quest Points",
             "The ability to defeat '''all''' enemies without Prayer"
         ]
     },

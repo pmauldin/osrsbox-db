@@ -27,9 +27,10 @@
             }
         ],
         "items": null,
-        "quests": null,
+        "quests": [
+            "Priest in Peril"
+        ],
         "misc": [
-            "Priest in Peril",
             "The ability to defeat a level 95 enemy",
             "60+ in a selected combat style (It is possible to do it below 60, for example, with Iban's Blast)"
         ]

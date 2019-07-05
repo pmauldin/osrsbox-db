@@ -18,10 +18,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest",
-                "level": 175
-            },
-            {
                 "name": "Cooking",
                 "level": 70
             },
@@ -93,7 +89,7 @@
             "Shadow of the Storm",
             "Demon Slayer",
             "The Golem",
-            "Started Legends' Quest",
+            "Legends' Quest",
             "Family Crest",
             "Heroes' Quest",
             "Shield of Arrav",
@@ -117,10 +113,11 @@
             "Death Plateau",
             "Waterfall Quest",
             "Horror from the Deep",
-            "Alfred Grimhand's Barcrawl miniquest"
+            "Alfred Grimhand's Barcrawl"
         ],
         "misc": [
             "All prerequisite quest requirements",
+            "175 Quest Points",
             "The ability to defeat many high level monsters without Prayer"
         ]
     },

@@ -30,9 +30,10 @@ from quests_builder import quest_helper
 
 
 class BuildQuest:
-    def __init__(self, quest_name, wiki_text):
+    def __init__(self, quest_name, wiki_text, quest_titles):
         self.quest_name = quest_name
         self.wiki_text = wiki_text  # Dict of raw wiki text from OSRS Wiki
+        self.quest_titles = quest_titles  # List of all quest titles
 
         # For this quest, create dictionary for property storage
         self.quest_dict = dict()
@@ -75,6 +76,9 @@ class BuildQuest:
 
             if "miniquests" in template_name:
                 self.quest_dict["type"] = "Miniquest"
+
+            if "minigames" in template_name:
+                self.quest_dict["type"] = "Minigame"
 
             # TODO Required Items
             # TODO Rewards
@@ -159,48 +163,69 @@ class BuildQuest:
             if req_lower in ["", "none"]:
                 continue
 
+            # if " or " in req_lower:
+            #     # If this
+            #     if "{{skill" in req_lower and "[[" in req_lower
+            #     misc_requirements.append(quest_helper.clean_display_string(req))
+            #     continue
+            #
+            # if " and " in req_lower:
+            #     misc_requirements.append(quest_helper.clean_display_string(req))
+            #     continue
+
+            # Get any templates used in this requirement
+            req_templates = mwparserfromhell.parse(req).filter_templates()
+
+            if "quest points" in req_lower:
+                if len(req_templates) == 0:
+                    misc_requirements.append(quest_helper.clean_display_string(req))
+                    continue
+
+                skill_template = req_templates[0]
+                skill_req = quest_helper.get_skill_requirement(skill_template, req)
+
+                if skill_req:
+                    misc_requirements.append(f"{skill_req['level']} Quest Points")
+                    continue
+
             # Mark that we're entering a section with quest requirements
             if "quests:" in req_lower:
                 tracking_quests = True
                 continue
 
+            cleaned_req = quest_helper.clean_quest_name(req)
+            if cleaned_req in self.quest_titles:
+                if recommended:
+                    recommended_quests.append(cleaned_req)
+                else:
+                    required_quests.append(cleaned_req)
+                continue
+
             # Handle special case for quest requirement listing
-            if "Completion of" in req:
-                req_quest = quest_helper.clean_display_string(req[len('Completion of '):])
+            quest_special_cases = ["Completion of", "Completed"]
+            if any(case in req for case in quest_special_cases):
+                req_quest = quest_helper.clean_quest_name(req[req.index("[["):req.index("]]")])
                 if recommended:
                     recommended_quests.append(req_quest)
                 else:
                     required_quests.append(req_quest)
                 continue
 
-            if tracking_quests:
-                # Quests under the "Required Quests" heading start with **
-                # If the next line doesn't start with **, we've moved out of the quests section
-                if "**" not in req_lower:
-                    tracking_quests = False
-                else:
-                    req_quest = quest_helper.clean_display_string(req)
-                    if recommended:
-                        recommended_quests.append(req_quest)
-                    else:
-                        required_quests.append(req_quest)
-                    continue
-
             # Mark that requirements from this point on are recommended, not required
             if "recommended:" in req_lower:
+                tracking_quests = False
                 recommended = True
 
                 continue
 
-            # Get any templates used in this requirement
-            req_templates = mwparserfromhell.parse(req).filter_templates()
-
-            if req_templates and len(req_templates) > 0:
+            if req_templates and len(req_templates) > 0 and not (tracking_quests and "**" in req_lower):
                 skill_template_names = ["skill clickpic", "skillreq"]
                 skill_template = req_templates[0]
 
                 # Check if this is a skill requirement
                 if any(name in skill_template.name.lower() for name in skill_template_names):
+                    tracking_quests = False
+
                     skill_req = quest_helper.get_skill_requirement(skill_template, req)
 
                     if not skill_req:
@@ -210,6 +235,19 @@ class BuildQuest:
                         recommended_skills.append(skill_req)
                     else:
                         required_skills.append(skill_req)
+                    continue
+
+            if tracking_quests:
+                # Quests under the "Required Quests" heading start with **
+                # If the next line doesn't start with **, we've moved out of the quests section
+                if "**" not in req_lower:
+                    tracking_quests = False
+                elif "kudos" not in req_lower:
+                    req_quest = quest_helper.clean_quest_name(req)
+                    if recommended:
+                        recommended_quests.append(req_quest)
+                    else:
+                        required_quests.append(req_quest)
                     continue
 
             # Don't include lines that are just notes (e.g. 'No boosts allowed:')

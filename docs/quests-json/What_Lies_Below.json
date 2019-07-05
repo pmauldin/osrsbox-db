@@ -29,9 +29,10 @@
             }
         ],
         "items": null,
-        "quests": null,
+        "quests": [
+            "Rune Mysteries"
+        ],
         "misc": [
-            "Completed the Rune Mysteries quest.",
             "Be able to defeat a level 47 enemy."
         ]
     },

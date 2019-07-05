@@ -26,11 +26,23 @@ import mwparserfromhell
 # Map to convert integer difficulties from the OSRS Wiki to a human readable string
 from common_builder_tools import builder_utils
 
-difficulty_conversion = {
+DIFFICULTY_CONVERSION = {
     "1": "Novice",
     "2": "Intermediate",
     "3": "Experienced"
 }
+
+RFD_QUESTS = [
+    "Freeing the Mountain Dwarf",
+    "Freeing the Goblin generals",
+    "Freeing Pirate Pete",
+    "Freeing the Lumbridge Guide",
+    "Freeing Evil Dave",
+    "Freeing King Awowogei",
+    "Freeing Sir Amik Varze"
+    "Freeing Skrach Uglogwee",
+    "Defeating the Culinaromancer"
+]
 
 
 def clean_display_string(string: str) -> str:
@@ -70,10 +82,10 @@ def get_difficulty(template: mwparserfromhell.nodes.template.Template) -> str:
         return "Unknown Difficulty"
 
     if difficulty.isdigit():
-        if difficulty in difficulty_conversion:
+        if difficulty in DIFFICULTY_CONVERSION:
             # Some quests have their difficulty set as an integer that maps to a readable string
             # We have to convert this value here
-            return difficulty_conversion[difficulty]
+            return DIFFICULTY_CONVERSION[difficulty]
         else:
             return f"Unable to convert difficulty {difficulty}"
 
@@ -132,3 +144,22 @@ def get_skill_requirement(template: mwparserfromhell.nodes.template.Template, ra
         "name": skill_name,
         "level": int(skill_level)
     }
+
+
+def clean_quest_name(quest_name: str) -> str:
+    """Helper method to clean up quest names and handle special cases"""
+    if "[[" in quest_name and "level" not in quest_name:
+        quest_name = quest_name[quest_name.index("[["):quest_name.index("]]")]
+
+    quest_name = clean_display_string(quest_name)
+
+    if "#" in quest_name:
+        quest_name = quest_name.split("#")[1]
+
+    quest_name = quest_name.split("|")[0].strip()
+
+    for rfd_quest in RFD_QUESTS:
+        if quest_name.lower() in rfd_quest.lower():
+            return f"Recipe for Disaster/{rfd_quest}"
+
+    return quest_name

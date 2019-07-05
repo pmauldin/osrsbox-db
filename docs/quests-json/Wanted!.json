@@ -18,12 +18,7 @@
     "required_for_completing": null,
     "requirements": {
         "quest_points": null,
-        "skills": [
-            {
-                "name": "Quest",
-                "level": 32
-            }
-        ],
+        "skills": null,
         "items": null,
         "quests": [
             "Recruitment Drive",
@@ -35,6 +30,7 @@
             "Priest in Peril"
         ],
         "misc": [
+            "32 Quest Points",
             "The ability to defeat a level 33 Black Knight."
         ]
     },

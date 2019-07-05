@@ -21,10 +21,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest",
-                "level": 107
-            },
-            {
                 "name": "Agility",
                 "level": 50
             },
@@ -82,6 +78,7 @@
             "Waterfall Quest"
         ],
         "misc": [
+            "107 Quest Points",
             "The ability to defeat a level 187 demon"
         ]
     },

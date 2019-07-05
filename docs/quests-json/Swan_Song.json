@@ -20,10 +20,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest",
-                "level": 100
-            },
-            {
                 "name": "Magic",
                 "level": 66
             },
@@ -61,6 +57,7 @@
             "The Restless Ghost"
         ],
         "misc": [
+            "100 Quest Points",
             "The ability to defeat a combat level 170 monster, which is able to use Magic, Melee and can drain Prayer."
         ]
     },

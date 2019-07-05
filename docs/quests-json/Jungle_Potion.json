@@ -25,9 +25,10 @@
             }
         ],
         "items": null,
-        "quests": null,
+        "quests": [
+            "Druidic Ritual"
+        ],
         "misc": [
-            "Druidic Ritual",
             "The ability to defend against level 53 Jogres and level 46 Harpie Bug Swarms."
         ]
     },

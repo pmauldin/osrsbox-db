@@ -20,10 +20,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest",
-                "level": 32
-            },
-            {
                 "name": "Crafting",
                 "level": 8
             }
@@ -31,6 +27,7 @@
         "items": null,
         "quests": null,
         "misc": [
+            "32 Quest Points",
             "The ability to defeat a level 83 Elvarg|dragon"
         ]
     },

@@ -23,10 +23,10 @@
             }
         ],
         "items": null,
-        "quests": null,
-        "misc": [
-            "Started Desert Treasure and The Restless Ghost"
-        ]
+        "quests": [
+            "Desert Treasure"
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

@@ -18,10 +18,10 @@
         "quest_points": null,
         "skills": null,
         "items": null,
-        "quests": null,
-        "misc": [
-            "Finished Making History"
-        ]
+        "quests": [
+            "Making History"
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

@@ -18,12 +18,12 @@
         "quest_points": null,
         "skills": null,
         "items": null,
-        "quests": null,
-        "misc": [
-            "Curse of the Empty Lord, for full ghostly robes",
-            "Started Desert Treasure, for the ring of visibility",
+        "quests": [
+            "Curse of the Empty Lord",
+            "Desert Treasure",
             "Fight Arena"
-        ]
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

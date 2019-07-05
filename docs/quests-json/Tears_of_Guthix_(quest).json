@@ -18,10 +18,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest points",
-                "level": 43
-            },
-            {
                 "name": "Firemaking",
                 "level": 49
             },
@@ -36,7 +32,9 @@
         ],
         "items": null,
         "quests": null,
-        "misc": null
+        "misc": [
+            "43 Quest Points"
+        ]
     },
     "recommended_requirements": null,
     "rewards": null

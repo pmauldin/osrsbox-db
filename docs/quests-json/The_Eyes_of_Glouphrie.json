@@ -33,10 +33,10 @@
             }
         ],
         "items": null,
-        "quests": null,
-        "misc": [
-            "Completed The Grand Tree quest."
-        ]
+        "quests": [
+            "The Grand Tree"
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

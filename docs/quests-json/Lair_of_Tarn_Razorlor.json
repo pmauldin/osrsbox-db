@@ -23,10 +23,10 @@
             }
         ],
         "items": null,
-        "quests": null,
-        "misc": [
-            "The\u00a0Haunted Mine\u00a0quest is required to access Tarn's Lair."
-        ]
+        "quests": [
+            "Haunted Mine"
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

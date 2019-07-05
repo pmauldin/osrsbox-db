@@ -20,10 +20,6 @@
         "quest_points": null,
         "skills": [
             {
-                "name": "Quest",
-                "level": 200
-            },
-            {
                 "name": "Magic",
                 "level": 75
             },
@@ -93,10 +89,11 @@
             "The Restless Ghost",
             "Bone Voyage",
             "The Dig Site",
-            "100 Kudos",
             "Client of Kourend"
         ],
         "misc": [
+            "200 Quest Points",
+            "100 Kudos",
             "Started the Firemaking part of Barbarian Training to gain access to the Ancient Cavern"
         ]
     },

@@ -37,11 +37,11 @@
             }
         ],
         "items": null,
-        "quests": null,
-        "misc": [
+        "quests": [
             "Heroes' Quest",
             "The Fremennik Trials"
-        ]
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

@@ -16,14 +16,10 @@
     "required_for_completing": null,
     "requirements": {
         "quest_points": null,
-        "skills": [
-            {
-                "name": "Quest",
-                "level": 107
-            }
-        ],
+        "skills": null,
         "items": null,
         "quests": [
+            "Legends' Quest",
             "Family Crest",
             "Heroes' Quest",
             "Shield of Arrav",
@@ -39,8 +35,8 @@
             "Waterfall Quest"
         ],
         "misc": [
+            "107 Quest Points",
             "Access to the Kharazi Jungle",
-            "Started Legends' Quest",
             "The ability to defeat a level 227 Black dragon"
         ]
     },

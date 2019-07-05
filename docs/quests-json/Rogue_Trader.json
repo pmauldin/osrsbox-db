@@ -2,7 +2,7 @@
     "id": "Rogue_Trader",
     "name": "Rogue Trader",
     "members": true,
-    "type": "Quest",
+    "type": "Minigame",
     "difficulty": "Unknown Difficulty",
     "length": "Short (if fully prepared)",
     "series": null,
@@ -18,12 +18,12 @@
         "quest_points": null,
         "skills": null,
         "items": null,
-        "quests": null,
-        "misc": [
+        "quests": [
             "The Feud",
             "Rune Mysteries",
-            "Icthlarin's Little Helper - gives access to Sophanem"
-        ]
+            "Icthlarin's Little Helper"
+        ],
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

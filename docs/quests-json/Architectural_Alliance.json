@@ -24,14 +24,12 @@
             {
                 "name": "Mining",
                 "level": 42
-            },
-            {
-                "name": "Slayer",
-                "level": 10
             }
         ],
         "items": null,
-        "quests": null,
+        "quests": [
+            "Plague City"
+        ],
         "misc": [
             "Ability to kill large quantities of level 53 and 62 Lizardmen"
         ]
@@ -57,7 +55,9 @@
             }
         ],
         "items": null,
-        "quests": [],
+        "quests": [
+            "Plague City"
+        ],
         "misc": null
     },
     "rewards": null

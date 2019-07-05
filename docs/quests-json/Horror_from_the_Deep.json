@@ -25,10 +25,10 @@
             }
         ],
         "items": null,
-        "quests": null,
-        "misc": [
+        "quests": [
             "Alfred Grimhand's Barcrawl"
-        ]
+        ],
+        "misc": null
     },
     "recommended_requirements": {
         "quest_points": null,

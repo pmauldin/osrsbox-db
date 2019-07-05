@@ -33,9 +33,10 @@
             }
         ],
         "items": null,
-        "quests": null,
+        "quests": [
+            "Priest in Peril"
+        ],
         "misc": [
-            "Must have completed Priest in Peril to be able to get to Mort'ton.",
             "Must be able to defeat 5 level-40 Loar Shades.",
             "Must be able to survive an onslaught when rebuilding the Temple, and many players make this much easier."
         ]

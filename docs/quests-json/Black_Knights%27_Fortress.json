@@ -16,15 +16,11 @@
     "required_for_completing": null,
     "requirements": {
         "quest_points": null,
-        "skills": [
-            {
-                "name": "Quest",
-                "level": 12
-            }
-        ],
+        "skills": null,
         "items": null,
         "quests": null,
         "misc": [
+            "12 Quest Points",
             "The ability to evade level 33 Black Knights"
         ]
     },

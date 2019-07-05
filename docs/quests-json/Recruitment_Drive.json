@@ -18,18 +18,14 @@
     "required_for_completing": null,
     "requirements": {
         "quest_points": null,
-        "skills": [
-            {
-                "name": "Quest",
-                "level": 12
-            }
-        ],
+        "skills": null,
         "items": null,
         "quests": [
             "Black Knights' Fortress",
             "Druidic Ritual"
         ],
         "misc": [
+            "12 Quest Points",
             "The ability to defeat a level 20 monster without any items at all",
             "Changing your character to a Female (3000 Coins at the  Make-over mage Southwest of Falador.)"
         ]

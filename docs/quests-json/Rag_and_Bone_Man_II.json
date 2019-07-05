@@ -27,13 +27,14 @@
             }
         ],
         "items": null,
-        "quests": null,
+        "quests": [
+            "Rag and Bone Man",
+            "Zogre Flesh Eaters",
+            "The Fremennik Trials",
+            "Creature of Fenkenstrain",
+            "Skippy and the Mogres"
+        ],
         "misc": [
-            "Completed Rag and Bone Man",
-            "Started Zogre Flesh Eaters",
-            "Completed either The Fremennik Trials or Horror from the Deep",
-            "Started Creature of Fenkenstrain",
-            "Completed Skippy and the Mogres",
             "The ability to kill several high-level monsters"
         ]
     },
