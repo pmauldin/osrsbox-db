@@ -1,0 +1,28 @@
+{
+    "id": "Rag_and_Bone_Man",
+    "name": "Rag and Bone Man",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": null,
+    "description": "Everybody needs some body, and the Odd Old Man knows exactly which bits of those bodies he needs. Can you help him finish his extensive and extremely creepy collection?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Rag_and_Bone_Man.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rag_and_Bone_Man",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Rag_and_Bone_Man/Quick_guide",
+    "developer": "Anthony W",
+    "release_date": "2006-04-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 27 monster."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

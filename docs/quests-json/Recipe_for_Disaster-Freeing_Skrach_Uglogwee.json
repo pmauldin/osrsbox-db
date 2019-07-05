@@ -1,0 +1,37 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_Skrach_Uglogwee",
+    "name": "Recipe for Disaster/Freeing Skrach Uglogwee",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Medium",
+    "series": null,
+    "description": "To protect Skrach Uglogwee from the Culinaromancer, you need to feed him a cooked jubbly bird, the most delicious type of Chompy in the Feldip Hills. You need to talk to Rantz to learn how to get one.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster_-_Freeing_Skrach_Uglogwee.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Skrach_Uglogwee",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Skrach_Uglogwee/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 41
+            },
+            {
+                "name": "Firemaking",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Big Chompy Bird Hunting"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

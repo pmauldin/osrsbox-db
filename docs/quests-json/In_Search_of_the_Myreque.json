@@ -1,0 +1,39 @@
+{
+    "id": "In_Search_of_the_Myreque",
+    "name": "In Search of the Myreque",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short",
+    "series": [
+        "Myreque"
+    ],
+    "description": "Canifis is experiencing an upsurge in new faces and a new stranger has appeared with a job to track down some local heroes known only as \"The Myreque\". The Myreque are fighting a desperate battle against the darkness of Morytania and he wishes to take them weapons to aid in the battle. Can you help him out?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:In_Search_of_the_Myreque.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/In_Search_of_the_Myreque",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/In_Search_of_the_Myreque/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2005-01-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": [
+            "The ability to defeat a level 97 foe (safespottable)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

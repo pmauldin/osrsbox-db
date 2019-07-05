@@ -1,0 +1,28 @@
+{
+    "id": "Enchanted_Key",
+    "name": "Enchanted Key",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Long",
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/Enchanted_Key",
+    "wiki_quick_guide_url": null,
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Finished Making History"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

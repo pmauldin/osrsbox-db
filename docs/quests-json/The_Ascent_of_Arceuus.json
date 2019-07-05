@@ -1,0 +1,37 @@
+{
+    "id": "The_Ascent_of_Arceuus",
+    "name": "The Ascent of Arceuus",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "A long time ago, the citizens of Arceuus house gave up their human bodies and claimed immortality. This event was known as the Ascent of Arceuus and it marked the end of death within Arceuus house. Or so they believed. For the first time in a thousand years, a member of Arceuus house has fallen. You will need to solve the mystery of this death. However, time is of the essence and the fate of Arceuus house lies in your hands.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Ascent_of_Arceuus.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Ascent_of_Arceuus",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Ascent_of_Arceuus/Quick_guide",
+    "developer": "Mod Ed",
+    "release_date": "2019-01-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Hunter",
+                "level": 12
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Client of Kourend"
+        ],
+        "misc": [
+            "20% Arceuus favour"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,31 @@
+{
+    "id": "Tower_of_Life",
+    "name": "Tower of Life",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": null,
+    "description": "The construction of a mysterious tower is almost complete, but the builders working on it have gone on strike. Losing patience, the alchemists that hired them are looking for anybody to help them. When the world of magic and the world of logic combine you can expect dangerous results, but a true adventurer would cherish such things... wouldn't they?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Tower_of_Life.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tower_of_Life",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Tower_of_Life/Quick_guide",
+    "developer": "Tim C",
+    "release_date": "2007-02-19",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Construction",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,20 @@
+{
+    "id": "Druidic_Ritual",
+    "name": "Druidic Ritual",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "The Druids north of Taverley need help making a potion to reclaim the stone circle south of Varrock.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Druidic_Ritual.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Druidic_Ritual",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Druidic_Ritual/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-02-27",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

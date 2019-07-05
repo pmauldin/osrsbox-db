@@ -1,0 +1,39 @@
+{
+    "id": "Elemental_Workshop_II",
+    "name": "Elemental Workshop II",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Elemental Workshop (#2)"
+    ],
+    "description": "Among the ancient scrolls and papers held at the Dig Site's Examination Centre, scholars have discovered more references to the mysterious elemental ore. Recently they have uncovered a beaten book detailing long-lost uses for this odd material.\nCan you decrypt the code that will lead you to the deeper depths of the Elemental Workshop? Can you get your head around fixing the mind-bending machinery, or will you fry your brain in the attempt?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Elemental_Workshop_II.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Elemental_Workshop_II",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Elemental_Workshop_II/Quick_guide",
+    "developer": "Dylan C",
+    "release_date": "2006-10-02",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Magic",
+                "level": 20
+            },
+            {
+                "name": "Smithing",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Elemental Workshop I"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

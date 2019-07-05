@@ -1,0 +1,44 @@
+{
+    "id": "The_Lost_Tribe",
+    "name": "The Lost Tribe",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Dorgeshuun"
+    ],
+    "description": "Sigmund is the advisor to the Duke of Lumbridge, but the duke does not always take his advice.\n\nWhen part of the cellar wall collapses the duke insists the damage was caused by an earthquake, but Sigmund is worried about a monster attack.\n\nIf you investigate this mystery it will lead you through treacherous caves to uncover something lost by the Gods for thousands of years.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Lost_Tribe.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Lost_Tribe",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Lost_Tribe/Quick_guide",
+    "developer": "John A",
+    "release_date": "2005-05-31",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 13
+            },
+            {
+                "name": "Thieving",
+                "level": 13
+            },
+            {
+                "name": "Mining",
+                "level": 17
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Goblin Diplomacy",
+            "Rune Mysteries"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

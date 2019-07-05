@@ -1,0 +1,37 @@
+{
+    "id": "The_Depths_of_Despair",
+    "name": "The Depths of Despair",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "Artur Hosidius has gone missing, and Lord Kandur Hosidius needs your help to find his son and bring him home.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Depths_of_Despair.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Depths_of_Despair",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Depths_of_Despair/Quick_guide",
+    "developer": "Mod Ed",
+    "release_date": "2017-11-09",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 18
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Client of Kourend"
+        ],
+        "misc": [
+            "20% Hosidius favour"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

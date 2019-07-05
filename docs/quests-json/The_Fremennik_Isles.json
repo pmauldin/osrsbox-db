@@ -1,0 +1,49 @@
+{
+    "id": "The_Fremennik_Isles",
+    "name": "The Fremennik Isles",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Long",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "Sibling rivalry can get messy - more so when the siblings are Fremennik princes with a point to prove. The islands of Jatizso and Neitiznot were set up by two brothers who hated each other, and they have been at loggerheads ever since. But now there is a new threat from trolls in the north...\n\nCan you prove your loyalty to both brothers and save the islanders from a fate as troll food? Your skills as a Fremennik warrior, a bridge builder and... a jester will be tested on the islands.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Fremennik_Isles.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Fremennik_Isles",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Fremennik_Isles/Quick_guide",
+    "developer": "Chihiro Y, Ben W, Douglas H",
+    "release_date": "2007-02-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Construction",
+                "level": 20
+            },
+            {
+                "name": "Agility",
+                "level": 40
+            },
+            {
+                "name": "Woodcutting",
+                "level": 56
+            },
+            {
+                "name": "Crafting",
+                "level": 46
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Fremennik Trials"
+        ],
+        "misc": [
+            "The ability to kill a level 122 Ice Troll King|Troll King and 10 rock throwing ice trolls in a multicombat area."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

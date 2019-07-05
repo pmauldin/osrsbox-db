@@ -1,0 +1,32 @@
+{
+    "id": "Contact!",
+    "name": "Contact!",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Master",
+    "length": "Medium",
+    "series": [
+        "Desert"
+    ],
+    "description": "The High Priest of Sophanem has problems again - this time with the inhabitants of Menaphos. Sophanem is recovering from the plague, yet most of its citizens are still trapped on the other side of the river. Diplomacy has failed and subterfuge beckons. Clearly, this is the sort of job that a shifty adventurer could excel in.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Contact!.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Contact!",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Contact!/Quick_guide",
+    "developer": "Chris J, Matt H",
+    "release_date": "2007-01-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Prince Ali Rescue",
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

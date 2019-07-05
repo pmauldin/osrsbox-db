@@ -1,0 +1,22 @@
+{
+    "id": "Plague_City",
+    "name": "Plague City",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Elf"
+    ],
+    "description": "The western part of Ardougne has been shut off as a deadly plague sweeps through the people. However, a young woman who went in to try to help those stricken by the illness has disappeared and her parents have become worried.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Plague_City.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Plague_City",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Plague_City/Quick_guide",
+    "developer": "Paul Gower, Tom W",
+    "release_date": "2002-08-27",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

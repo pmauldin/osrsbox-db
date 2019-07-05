@@ -1,0 +1,32 @@
+{
+    "id": "Icthlarin%27s_Little_Helper",
+    "name": "Icthlarin's Little Helper",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Desert"
+    ],
+    "description": "In the deep south of the desert, unrest is brewing... The cities of the Menaphites have barred their gates to all. An unsettling desert wanderer may know of a secret entrance though, to Sophanem - the city of the dead.\n\nWill you become Icthlarin's Little Helper by entering? Enter into a titanic struggle for the soul of the high priest of Icthlarin in a land where the cat is top dog.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Icthlarin%27s_Little_Helper.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_Little_Helper",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Icthlarin%27s_Little_Helper/Quick_guide",
+    "developer": "Chris J",
+    "release_date": "2005-04-26",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Gertrude's Cat"
+        ],
+        "misc": [
+            "The ability to defeat a level 91 monster."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

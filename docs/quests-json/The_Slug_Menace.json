@@ -1,0 +1,58 @@
+{
+    "id": "The_Slug_Menace",
+    "name": "The Slug Menace",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Sea Slug<br>List of quest series#Temple Knight series"
+    ],
+    "description": "The small village of Witchaven was all but deserted when the Fishing Platform was built a short ways off the coast. Now, some of the inhabitants of the village have been acting somewhat strangely....",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Witchaven.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Slug_Menace",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Slug_Menace/Quick_guide",
+    "developer": "Chris LC",
+    "release_date": "2006-09-20",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 30
+            },
+            {
+                "name": "Runecraft",
+                "level": 30
+            },
+            {
+                "name": "Slayer",
+                "level": 30
+            },
+            {
+                "name": "Thieving",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Wanted!",
+            "Recruitment Drive",
+            "Black Knights' Fortress",
+            "Druidic Ritual",
+            "The Lost Tribe",
+            "Rune Mysteries",
+            "Goblin Diplomacy",
+            "Priest in Peril",
+            "Sea Slug"
+        ],
+        "misc": [
+            "The ability to defeat a level 62 enemy with Melee.",
+            "Note you must have the Commorb in your inventory to start the quest."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

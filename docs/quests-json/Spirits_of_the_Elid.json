@@ -1,0 +1,47 @@
+{
+    "id": "Spirits_of_the_Elid",
+    "name": "Spirits of the Elid",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Desert"
+    ],
+    "description": "The people in the desert village of Nardah have a problem. Their town well has dried up and any water they try to bring back to the town from the river mysteriously disappears before they can get it back.\n\nThe villagers suspect they have been cursed in some way. Can you unravel what is going on and save the village?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Spirits_of_the_Elid.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Spirits_of_the_Elid",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Spirits_of_the_Elid/Quick_guide",
+    "developer": "Paul G",
+    "release_date": "2005-12-05",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Magic",
+                "level": 33
+            },
+            {
+                "name": "Ranged",
+                "level": 37
+            },
+            {
+                "name": "Mining",
+                "level": 37
+            },
+            {
+                "name": "Thieving",
+                "level": 37
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Ability to defeat three level 75 golems"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

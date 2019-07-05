@@ -1,0 +1,64 @@
+{
+    "id": "Architectural_Alliance",
+    "name": "Architectural Alliance",
+    "members": true,
+    "type": "Miniquest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Very Long",
+    "series": null,
+    "description": "None",
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/Architectural_Alliance",
+    "wiki_quick_guide_url": null,
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 30
+            },
+            {
+                "name": "Mining",
+                "level": 42
+            },
+            {
+                "name": "Slayer",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Ability to kill large quantities of level 53 and 62 Lizardmen"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Woodcutting",
+                "level": 42
+            },
+            {
+                "name": "Hunter",
+                "level": 15
+            },
+            {
+                "name": "Mining",
+                "level": 65
+            },
+            {
+                "name": "Cooking",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [],
+        "misc": null
+    },
+    "rewards": null
+}

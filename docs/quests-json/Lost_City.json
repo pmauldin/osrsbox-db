@@ -1,0 +1,39 @@
+{
+    "id": "Lost_City",
+    "name": "Lost City",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Short",
+    "series": [
+        "Fairy Tale"
+    ],
+    "description": "Can you find the legendary lost city of Zanaris?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Lost_City.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Lost_City",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Lost_City/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-02-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 31
+            },
+            {
+                "name": "Woodcutting",
+                "level": 36
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Ability to kill a level 101 Tree spirit (Lost City)|Tree spirit with limited armour and weapons."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

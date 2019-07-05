@@ -1,0 +1,36 @@
+{
+    "id": "Shadow_of_the_Storm",
+    "name": "Shadow of the Storm",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": null,
+    "description": "A sinister group of dark wizards is attempting to summon Agrith-Naar, a demon of exceptional mystical power. Rather than try to prevent them, a Saradomist priest asks the player to help summon the demon and then kill it once and for all.\n\nBut all is not as it seems\u2026",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Shadow_of_the_Storm.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shadow_of_the_Storm",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Shadow_of_the_Storm/Quick_guide",
+    "developer": "John A",
+    "release_date": "2005-11-14",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Golem",
+            "Demon Slayer"
+        ],
+        "misc": [
+            "The ability to defeat a level 100 demon"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

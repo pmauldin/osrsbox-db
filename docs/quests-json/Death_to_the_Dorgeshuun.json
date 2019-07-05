@@ -1,0 +1,43 @@
+{
+    "id": "Death_to_the_Dorgeshuun",
+    "name": "Death to the Dorgeshuun",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Dorgeshuun"
+    ],
+    "description": "Humans have been visiting the Dorgeshuun mines for some time now, but no Dorgeshuun has visited the surface since the signing of the Lumbridge-Dorgeshuun treaty. The Dorgeshuun Council fears that the H.A.M group may be planning another attack, and want to send an agent to the surface to investigate. But they do not want to send someone to the surface without a guide...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Death_to_the_Dorgeshuun.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Death_to_the_Dorgeshuun",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Death_to_the_Dorgeshuun/Quick_guide",
+    "developer": "John A",
+    "release_date": "2006-06-21",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 23
+            },
+            {
+                "name": "Thieving",
+                "level": 23
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Lost Tribe",
+            "Goblin Diplomacy",
+            "Rune Mysteries"
+        ],
+        "misc": [
+            "The ability to defeat a level 50 enemy with Melee or Magic"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

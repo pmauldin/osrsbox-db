@@ -1,0 +1,22 @@
+{
+    "id": "X_Marks_the_Spot",
+    "name": "X Marks the Spot",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "Veos has long been a lover of treasure hunts and his latest hunt has brought him to Lumbridge. However, not knowing the area well, Veos could use some help finding this treasure.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:X_Marks_the_Spot.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/X_Marks_the_Spot",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide",
+    "developer": "Mod Ed",
+    "release_date": "2019-02-07",
+    "required_for_completing": null,
+    "requirements": {},
+    "recommended_requirements": null,
+    "rewards": null
+}

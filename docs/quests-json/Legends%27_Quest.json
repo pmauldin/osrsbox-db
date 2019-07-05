@@ -1,0 +1,90 @@
+{
+    "id": "Legends%27_Quest",
+    "name": "Legends' Quest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Very long",
+    "series": [
+        "Karamja",
+        "Guild"
+    ],
+    "description": "Only the elite are allowed to call themselves a Legend of ''RuneScape''. Do you have what it takes to make it into the guild?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Legends%27_Quest_-_Fighting_Nezikchened.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Legends%27_Quest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Legends%27_Quest/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2003-08-20",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 107
+            },
+            {
+                "name": "Agility",
+                "level": 50
+            },
+            {
+                "name": "Crafting",
+                "level": 50
+            },
+            {
+                "name": "Herblore",
+                "level": 45
+            },
+            {
+                "name": "Magic",
+                "level": 56
+            },
+            {
+                "name": "Mining",
+                "level": 52
+            },
+            {
+                "name": "Prayer",
+                "level": 42
+            },
+            {
+                "name": "Smithing",
+                "level": 50
+            },
+            {
+                "name": "Strength",
+                "level": 50
+            },
+            {
+                "name": "Thieving",
+                "level": 50
+            },
+            {
+                "name": "Woodcutting",
+                "level": 50
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest"
+        ],
+        "misc": [
+            "The ability to defeat a level 187 demon"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

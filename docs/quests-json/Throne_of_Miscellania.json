@@ -1,0 +1,48 @@
+{
+    "id": "Throne_of_Miscellania",
+    "name": "Throne of Miscellania",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 5",
+    "length": "Medium",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "Rumours have been coming back from Miscellania that all is not well, it is said that the king has been turned into a monster!\n\nAn exceptional hero is required to investigate. Experience in ruling kingdoms, wooing royalty and negotiating peace would be an advantage.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Throne_of_Miscellania.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Throne_of_Miscellania",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Throne_of_Miscellania/Quick_guide",
+    "developer": "Chris S, Jonathan S",
+    "release_date": "2004-11-29",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Woodcutting",
+                "level": 45
+            },
+            {
+                "name": "Farming",
+                "level": 10
+            },
+            {
+                "name": "Mining",
+                "level": 30
+            },
+            {
+                "name": "Fishing",
+                "level": 35
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Heroes' Quest",
+            "The Fremennik Trials"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,45 @@
+{
+    "id": "Monkey_Madness_I",
+    "name": "Monkey Madness I",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Long",
+    "series": [
+        "Gnome",
+        "Monkey"
+    ],
+    "description": "The King of the northern Gnomes, Narnode Shareen, is once again in need of your help. He recently decided to send an envoy of his Royal Guard, the 10th squad, to oversee the decommissioning of the Gnome owned ship-building facilities on the eastern coast of Karamja.\n\nIt has been quite some time since the 10th squad were dispatched and they have been deemed missing in action. It will be up to you, should you decide to help, to find out what fate befell the 10th squad and if possible, track them down.\n\nIf only it were so simple. Sinister forces have begun to spread through the Gnome hierarchy and threaten to unleash an unknown terror upon the world. Far across the land, the fires of vengeance are being stoked once again. Can you unravel the mystery behind the deception? Can you separate the truth from the lies? Can you decide for yourself what is real and what is not?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Monkey_Madness_I.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_Madness_I",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Monkey_Madness_I/Quick_guide",
+    "developer": "Rahul V",
+    "release_date": "2004-12-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "The Grand Tree",
+            "Tree Gnome Village"
+        ],
+        "misc": [
+            "The ability to defeat a level 195 Jungle Demon"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 43
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

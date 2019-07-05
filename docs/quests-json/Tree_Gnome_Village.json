@@ -1,0 +1,30 @@
+{
+    "id": "Tree_Gnome_Village",
+    "name": "Tree Gnome Village",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short",
+    "series": [
+        "Gnome"
+    ],
+    "description": "The tree gnomes are in trouble. General Khazard's forces are hunting them to extinction. Find your way through the hedge maze to the gnomes secret treetop village, then help the gnomes fight Khazard and retrieve the orbs of protection.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Tree_Gnome_Village.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tree_Gnome_Village",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-07-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 112 Khazard warlord (can be safespot|safespotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,47 @@
+{
+    "id": "Another_Slice_of_H.A.M.",
+    "name": "Another Slice of H.A.M.",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Dorgeshuun (#4)"
+    ],
+    "description": "The dwarves are building a new underground rail link between their city of Keldagrim and the cave goblins' Dorgesh-Kaan, but work is being held up by the discovery of ancient goblin artifacts, and they need the help of a qualified archaeologist. Helping them out should be simple enough - unless you stumble upon another H.A.M. plot against the city.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Another_Slice_Of_H.A.M.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Another_Slice_of_H.A.M.",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Another_Slice_of_H.A.M./Quick_guide",
+    "developer": "John A",
+    "release_date": "2007-04-24",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Attack",
+                "level": 15
+            },
+            {
+                "name": "Prayer",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Death to the Dorgeshuun",
+            "The Lost Tribe",
+            "Goblin Diplomacy",
+            "Rune Mysteries",
+            "The Giant Dwarf",
+            "The Dig Site",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "The ability to defeat a level 64 (using any combat style) and two level 30 enemies using either Ranged or Magic."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

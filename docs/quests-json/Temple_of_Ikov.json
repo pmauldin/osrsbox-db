@@ -1,0 +1,39 @@
+{
+    "id": "Temple_of_Ikov",
+    "name": "Temple of Ikov",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": [
+        "Mahjarrat"
+    ],
+    "description": "A mysterious stranger called Lucien asks you to go on a mission deep under the Temple of Ikov in central Kandarin. He wants you to retrieve an artifact known as the Staff of Armadyl. After you retrieve it, the quest doesn't stop there... Are you on the side of good or evil?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Temple_of_Ikov.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Temple_of_Ikov",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Temple_of_Ikov/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-06-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 42
+            },
+            {
+                "name": "Ranged",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 84 enemy with Ranged"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

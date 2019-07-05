@@ -1,0 +1,33 @@
+{
+    "id": "Black_Knights%27_Fortress",
+    "name": "Black Knights' Fortress",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "The Black Knights are up to no good. You are hired by the white knights to spy on them and destroy their secret weapon.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Black_Knights%27_Fortress.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-04-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 12
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to evade level 33 Black Knights"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

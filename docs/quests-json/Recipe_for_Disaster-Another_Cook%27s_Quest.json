@@ -1,0 +1,33 @@
+{
+    "id": "Recipe_for_Disaster-Another_Cook%27s_Quest",
+    "name": "Recipe for Disaster/Another Cook's Quest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Short",
+    "series": null,
+    "description": "The cook in Lumbridge has a surprisingly small number of ingredients to hand in his kitchen, possibly as a result of an endless stream of newcomers with light fingers taking anything that isn't nailed down from his kitchen.\n\nLuckily, in the past a kind Cook's Assistant was willing to help him in his culinary duties, but now a problem has appeared that could spell... a Recipe For Disaster!\n\nAlmost all members may attempt to solve his tricky predicament, and be rewarded accordingly, but only the very elite of Questers will be able to put an end to his problem permanently!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Another_Cook%27s_Quest",
+    "wiki_quick_guide_url": null,
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Cook's Assistant"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

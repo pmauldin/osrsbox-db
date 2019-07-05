@@ -1,0 +1,53 @@
+{
+    "id": "Recipe_for_Disaster-Defeating_the_Culinaromancer",
+    "name": "Recipe for Disaster/Defeating the Culinaromancer",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Short",
+    "series": null,
+    "description": "The Culinaromancer has retreated through the portal back to his own dimension, where he'll be ready to cause more trouble. Aris has said that you too must go through the portal to finish him off.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Culinaromancer_unfrozen.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Defeating_the_Culinaromancer",
+    "wiki_quick_guide_url": null,
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 175
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Desert Treasure",
+            "The Dig Site",
+            "Druidic Ritual",
+            "Temple of Ikov",
+            "The Tourist Trap",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Priest in Peril",
+            "Waterfall Quest",
+            "Horror from the Deep",
+            "Alfred Grimhand's Barcrawl miniquest",
+            "Freeing the Goblin generals",
+            "Freeing the Mountain dwarf",
+            "Freeing Evil Dave",
+            "Freeing the Lumbridge Guide",
+            "Freeing Pirate Pete",
+            "Freeing Skrach Uglogwee",
+            "Freeing Sir Amik Varze",
+            "Freeing King Awowogei"
+        ],
+        "misc": [
+            "The ability to defeat '''all''' enemies without Prayer"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

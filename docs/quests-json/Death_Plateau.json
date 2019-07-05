@@ -1,0 +1,22 @@
+{
+    "id": "Death_Plateau",
+    "name": "Death Plateau",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Troll"
+    ],
+    "description": "Trolls have come down from the north and are camped on Death Plateau. They are using this base to launch attacks on the principality of Burthorpe!\nThe Imperial Guard is taking heavy losses. They need your help!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Death_Plateau.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Death_Plateau",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Death_Plateau/Quick_guide",
+    "developer": "Jon S",
+    "release_date": "2004-08-09",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

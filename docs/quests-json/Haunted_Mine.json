@@ -1,0 +1,50 @@
+{
+    "id": "Haunted_Mine",
+    "name": "Haunted Mine",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium \u2013 Long",
+    "series": null,
+    "description": "Recent forays into Morytania by some of Saradomin's more fanatical supporters have unearthed murky rumours concerning an abandoned mine in the south. Legend speaks of an unusual material, hidden in the depths of the mines, that is somehow linked to the desolation and fear that now surrounds the place. Do you have the nerve to find out more, and enter the haunted mines of Morytania?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Haunted_Mine.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Haunted_Mine",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Haunted_Mine/Quick_guide",
+    "developer": "Ian G",
+    "release_date": "2004-12-21",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 15
+            },
+            {
+                "name": "Crafting",
+                "level": 35
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Priest in Peril",
+            "The ability to defeat a level 95 enemy",
+            "60+ in a selected combat style (It is possible to do it below 60, for example, with Iban's Blast)"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

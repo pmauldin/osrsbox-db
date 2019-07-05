@@ -1,0 +1,45 @@
+{
+    "id": "Family_Crest",
+    "name": "Family Crest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": null,
+    "description": "There is a man in Varrock who needs a bit of help. He is of noble heritage, but without his family's crest, he can't prove it. Unfortunately, his three sons took the crest with them when they left, scattering all across ''RuneScape''.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Family_Crest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Family_Crest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-04-09",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Mining",
+                "level": 40
+            },
+            {
+                "name": "Smithing",
+                "level": 40
+            },
+            {
+                "name": "Magic",
+                "level": 59
+            },
+            {
+                "name": "Crafting",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 170 Demons|demon (can be safespotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

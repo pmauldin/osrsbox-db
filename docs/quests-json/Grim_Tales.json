@@ -1,0 +1,51 @@
+{
+    "id": "Grim_Tales",
+    "name": "Grim Tales",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Medium",
+    "series": null,
+    "description": "\"Once upon a time in a land far, far away...\" Sylas, a collector of items both wondrous and unusual seeks out the latest additions to his trove with a somewhat unusual prize for the finder.\n\nTerrors and towers await; fierce battles with giant beasts; striding boldly to rescue a dwarf in distress! Not a quest for the meek or faint-hearted, prepare yourself for a feast of fairy-tale fun with rewards a-plenty! The Brothers Grimm could never have foretold a tale such as this...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Grim_Tales.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Grim_Tales",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Grim_Tales/Quick_guide",
+    "developer": "Danny J",
+    "release_date": "2007-06-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Farming",
+                "level": 45
+            },
+            {
+                "name": "Herblore",
+                "level": 52
+            },
+            {
+                "name": "Thieving",
+                "level": 58
+            },
+            {
+                "name": "Agility",
+                "level": 59
+            },
+            {
+                "name": "Woodcutting",
+                "level": 71
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Witch's House"
+        ],
+        "misc": [
+            "Ability to defeat a level 138 cloud giant\u2014Glod"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

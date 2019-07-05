@@ -1,0 +1,30 @@
+{
+    "id": "Biohazard",
+    "name": "Biohazard",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Elf"
+    ],
+    "description": "This is the second part of an ongoing adventure. Help Elena discover the truth about the infamous Ardougne plague.\n\nSmuggle test samples across Ardougne to Elena's old mentor.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Biohazard.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Biohazard",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Biohazard/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-10-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Plague City"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

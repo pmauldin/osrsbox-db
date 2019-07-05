@@ -1,0 +1,51 @@
+{
+    "id": "Watchtower",
+    "name": "Watchtower",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "Ogre"
+    ],
+    "description": "The Wizards of the Yanille Watch Tower have been reporting increased ogre sightings recently. Use a wide variety of your skills to help the wizards recover their stolen power crystals and stop the advance of the ogre hordes!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Watchtower.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Watchtower",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Watchtower/Quick_guide",
+    "developer": "Ian T",
+    "release_date": "2003-05-07",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Magic",
+                "level": 15
+            },
+            {
+                "name": "Thieving",
+                "level": 15
+            },
+            {
+                "name": "Agility",
+                "level": 25
+            },
+            {
+                "name": "Herblore",
+                "level": 14
+            },
+            {
+                "name": "Mining",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 68 ogre"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

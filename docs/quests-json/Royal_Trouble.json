@@ -1,0 +1,39 @@
+{
+    "id": "Royal_Trouble",
+    "name": "Royal Trouble",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "It's tough being a regent of a small island kingdom, especially when the King Vargas|king has declared war while you were adventuring. Something is up in Miscellania and Etceteria, so you'd better find out what before both kingdoms end up in royal trouble.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Royal_Trouble.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Royal_Trouble",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Royal_Trouble/Quick_guide",
+    "developer": "Isobel H",
+    "release_date": "2006-05-22",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 40
+            },
+            {
+                "name": "Slayer",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Throne of Miscellania"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Regicide",
+    "name": "Regicide",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Master",
+    "length": "Long",
+    "series": [
+        "Elf"
+    ],
+    "description": "Continuing the Plague City series, the Regicide Quest takes you beyond the 'Well of Voyage' to a new realm.\n\nKing Lathas will employ you once again, this time for the grim task of disposing of his brother.\n\nUpon travelling to the realm you will find yourself surrounded by new and strange plants, animals and even a new race.\n\nOnce there, you will see that everything is not as serene as it first appears.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Regicide.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Regicide",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Regicide/Quick_guide",
+    "developer": "Dylan C",
+    "release_date": "2004-09-20",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 56
+            },
+            {
+                "name": "Crafting",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Underground Pass",
+            "Biohazard",
+            "Plague City"
+        ],
+        "misc": [
+            "The ability to defeat a level 110 Tyras guard. (Safespots are available.)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

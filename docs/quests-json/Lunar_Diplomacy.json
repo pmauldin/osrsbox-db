@@ -1,0 +1,63 @@
+{
+    "id": "Lunar_Diplomacy",
+    "name": "Lunar Diplomacy",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Long",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "Can you make it to Moonclan Island and make peace between the Moonclan and the Fremenniks?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Lunar_Diplomacy.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Lunar_Diplomacy",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Lunar_Diplomacy/Quick_guide",
+    "developer": "Tim C, James B",
+    "release_date": "2006-07-24",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 61
+            },
+            {
+                "name": "Defence",
+                "level": 40
+            },
+            {
+                "name": "Firemaking",
+                "level": 49
+            },
+            {
+                "name": "Magic",
+                "level": 65
+            },
+            {
+                "name": "Mining",
+                "level": 60
+            },
+            {
+                "name": "Woodcutting",
+                "level": 55
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Fremennik Trials",
+            "Lost City",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "The ability to kill multiple level 111 monsters",
+            "The ability to access the Air altar|Air, Earth altar|Earth, Fire altar|Fire and Water altar|Water runecrafting altars"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "Wanted!",
+    "name": "Wanted!",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "Temple Knight"
+    ],
+    "description": "A wanted man is on the loose. Can you track him down?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Wanted!.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Wanted!",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Wanted!/Quick_guide",
+    "developer": "James B",
+    "release_date": "2005-10-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 32
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Recruitment Drive",
+            "Black Knights' Fortress",
+            "Druidic Ritual",
+            "The Lost Tribe",
+            "Rune Mysteries",
+            "Goblin Diplomacy",
+            "Priest in Peril"
+        ],
+        "misc": [
+            "The ability to defeat a level 33 Black Knight."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

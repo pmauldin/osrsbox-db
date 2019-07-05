@@ -1,0 +1,20 @@
+{
+    "id": "Misthalin_Mystery",
+    "name": "Misthalin Mystery",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "A woman cries as a man lays dying, desperately they beg you to stop a cryptic killer before their friends suffer a similar fate.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Misthalin_Mystery.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Misthalin_Mystery",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide",
+    "developer": "Mod Jed, Mod TomH,\nMod West, Mod Ash",
+    "release_date": "2017-01-26",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

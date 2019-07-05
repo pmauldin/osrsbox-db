@@ -1,0 +1,42 @@
+{
+    "id": "Troll_Romance",
+    "name": "Troll Romance",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": [
+        "Troll"
+    ],
+    "description": "Ug loves Aga, but Aga is together with Arrg. Since Arrg is a lot stronger than Ug, Ug can't follow the regular mating ritual, which involves ripping the opponent into pieces. Will you be able to find out what will impress the troll female more than a display of violence? Will you survive the journey to help a lonely troll find love?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Troll_Romance.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Troll_Romance",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Troll_Romance/Quick_guide",
+    "developer": "Simon S",
+    "release_date": "2005-01-05",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 28
+            },
+            {
+                "name": "Woodcutting",
+                "level": 45
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Troll Stronghold",
+            "Death Plateau"
+        ],
+        "misc": [
+            "The ability to defeat a level 113 Arrg|troll"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

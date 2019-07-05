@@ -1,0 +1,41 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_the_Lumbridge_Guide",
+    "name": "Recipe for Disaster/Freeing the Lumbridge Guide",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Short",
+    "series": null,
+    "description": "You need a cake of guidance to protect the Lumbridge Guide. Wizard Traiborn in the Wizards' Tower can teach you how to make one.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_the_Lumbridge_Guide",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_the_Lumbridge_Guide/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Big Chompy Bird Hunting",
+            "Biohazard",
+            "Plague City",
+            "Demon Slayer",
+            "Murder Mystery",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Witch's House"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

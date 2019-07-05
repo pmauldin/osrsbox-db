@@ -1,0 +1,35 @@
+{
+    "id": "The_Grand_Tree",
+    "name": "The Grand Tree",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Long",
+    "series": [
+        "Gnome"
+    ],
+    "description": "The Grand Tree, which shelters the majority of the  small gnome population of ''RuneScape'', is dying. Is it human sabotage or an inside job? Help King Shareen to find the true cause and save the tree gnomes from an uncertain fate.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Grand_Tree.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Grand_Tree",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-12-12",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 172 Black demon (safespottable for Ranged and Magic or melee using a halberd)."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

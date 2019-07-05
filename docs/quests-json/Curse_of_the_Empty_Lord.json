@@ -1,0 +1,33 @@
+{
+    "id": "Curse_of_the_Empty_Lord",
+    "name": "Curse of the Empty Lord",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Medium",
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/Curse_of_the_Empty_Lord",
+    "wiki_quick_guide_url": null,
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 31
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Started Desert Treasure and The Restless Ghost"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

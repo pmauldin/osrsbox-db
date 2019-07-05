@@ -1,0 +1,40 @@
+{
+    "id": "Forgettable_Tale...",
+    "name": "Forgettable Tale...",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "Rise of the Red Axe"
+    ],
+    "description": "Forgettable Tale of a Drunken Dwarf is part 2 in the Rise of the Red Axe series, focusing on the dwarves and their capital city of Keldagrim. After the events in The Giant Dwarf, the Red Axe mining company has departed the city and set up a new headquarters in a remote underground location.\n\nVeldaban, the Commander of the Dwarven Black Guard in Keldagrim, wants you to investigate the case and find out if the Red Axe is planning anything nefarious. The problem is, the only lead he's got is an extremely drunken and kebab obsessed dwarf.\n\nUse your farming and brewing abilities to your advantage, then prepare to be perplexed by puzzles as you follow the trail to the Red Axe...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Forgettable_Tale....png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Forgettable_Tale...",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Forgettable_Tale.../Quick_guide",
+    "developer": "Vincent van M",
+    "release_date": "2005-07-26",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 22
+            },
+            {
+                "name": "Farming",
+                "level": 17
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Giant Dwarf",
+            "Fishing Contest"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

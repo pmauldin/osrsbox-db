@@ -1,0 +1,42 @@
+{
+    "id": "Rag_and_Bone_Man_II",
+    "name": "Rag and Bone Man II",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Rag_and_Bone_Man.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_II",
+    "wiki_quick_guide_url": null,
+    "developer": "Anthony W",
+    "release_date": "2006-04-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Slayer",
+                "level": 40
+            },
+            {
+                "name": "Defence",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Completed Rag and Bone Man",
+            "Started Zogre Flesh Eaters",
+            "Completed either The Fremennik Trials or Horror from the Deep",
+            "Started Creature of Fenkenstrain",
+            "Completed Skippy and the Mogres",
+            "The ability to kill several high-level monsters"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

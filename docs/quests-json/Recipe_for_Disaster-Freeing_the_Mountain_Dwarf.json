@@ -1,0 +1,30 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_the_Mountain_Dwarf",
+    "name": "Recipe for Disaster/Freeing the Mountain Dwarf",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Short",
+    "series": null,
+    "description": "To save the dwarf, you will need a special dwarven rock cake. Only his father in the tunnel under White Wolf Mountain knows how to make one.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster_-_Freeing_the_Mountain_Dwarf.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_the_Mountain_Dwarf",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_the_Mountain_Dwarf/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Fishing Contest"
+        ],
+        "misc": [
+            "The ability to defeat a level 13 icefiend if you don't have the ice gloves."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

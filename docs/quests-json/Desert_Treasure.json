@@ -1,0 +1,55 @@
+{
+    "id": "Desert_Treasure",
+    "name": "Desert Treasure",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Master",
+    "length": "Very long",
+    "series": [
+        "The Return of Zaros ",
+        "Mahjarrat"
+    ],
+    "description": "Rumours abound throughout Varrock and Al-Kharid that an archaeologist has discovered clues to a hoard of treasure hidden deep in the desert, south of Al-Kharid.\n\nAnybody prepared to offer him assistance in his treasure hunting could well find themselves benefitting from a very large reward indeed...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Desert_Treasure.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Desert_Treasure",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Desert_Treasure/Quick_guide",
+    "developer": "James B",
+    "release_date": "2005-04-18",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 53
+            },
+            {
+                "name": "Firemaking",
+                "level": 50
+            },
+            {
+                "name": "Slayer",
+                "level": 10
+            },
+            {
+                "name": "Magic",
+                "level": 50
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Dig Site",
+            "Druidic Ritual",
+            "Temple of Ikov",
+            "The Tourist Trap",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Priest in Peril",
+            "Waterfall Quest"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

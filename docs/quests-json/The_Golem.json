@@ -1,0 +1,35 @@
+{
+    "id": "The_Golem",
+    "name": "The Golem",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": null,
+    "description": "Deep in the desert stand the ruins of the once great city of Uzer, where a lone survivor, an ancient clay golem, forever paces back and forth. It is badly damaged, and its mind cannot rest until it has completed the task for which it was created.\n\nIt is up to you to uncover the secret of the lost city, and add the final chapter to a story started in the violence of the Third Age.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Golem.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Golem",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Golem/Quick_guide",
+    "developer": "John A",
+    "release_date": "2005-04-11",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 20
+            },
+            {
+                "name": "Thieving",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

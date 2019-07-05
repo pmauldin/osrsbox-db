@@ -1,0 +1,37 @@
+{
+    "id": "The_Queen_of_Thieves",
+    "name": "The Queen of Thieves",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "The gangs of Kourend have recently been uniting under a mysterious figure called the Queen of Thieves, somewhere in Port Piscarilius. This novice quest tasks the player with infiltrating the gangs of Kourend in order to find the Queen of Thieves.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Queen_of_Thieves.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Queen_of_Thieves",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Queen_of_Thieves/Quick_guide",
+    "developer": "Mod Ed",
+    "release_date": "2017-11-09",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Client of Kourend"
+        ],
+        "misc": [
+            "20% Port Piscarilius Great Kourend#Favour system|favour"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

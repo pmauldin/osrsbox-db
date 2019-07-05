@@ -1,0 +1,46 @@
+{
+    "id": "Horror_from_the_Deep",
+    "name": "Horror from the Deep",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Short",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "The lighthouse protecting Kandarin's northwestern coastline has mysteriously stopped operating, and contact with the lighthouse keeper Jossik has been lost.\n\nThe Council would greatly appreciate it if somebody could discover for them what has happened to this most vital landscape feature.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Horror_from_the_Deep.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Horror_from_the_Deep",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Horror_from_the_Deep/Quick_guide",
+    "developer": "James B",
+    "release_date": "2004-11-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 35
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Alfred Grimhand's Barcrawl"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

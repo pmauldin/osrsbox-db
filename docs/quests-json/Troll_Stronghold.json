@@ -1,0 +1,37 @@
+{
+    "id": "Troll_Stronghold",
+    "name": "Troll Stronghold",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Troll"
+    ],
+    "description": "The Imperial Guard raid was a failure, and Dunstan's son has been captured by the trolls!\n\nJourney through Trollheim to the Troll Stronghold, and rescue him!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Troll_Stronghold.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Troll_Stronghold",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Troll_Stronghold/Quick_guide",
+    "developer": "Chris S",
+    "release_date": "2004-08-24",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 15
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Death Plateau"
+        ],
+        "misc": [
+            "The ability to defeat a level 113 Troll General (can be safespotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

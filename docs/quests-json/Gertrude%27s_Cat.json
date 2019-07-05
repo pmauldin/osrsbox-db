@@ -1,0 +1,20 @@
+{
+    "id": "Gertrude%27s_Cat",
+    "name": "Gertrude's Cat",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "Gertrude has lost her cat Fluffs and desperately wants to find her. Can you help bring her home?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Gertrude%27s_Cat.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Gertrude%27s_Cat",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2003-07-28",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

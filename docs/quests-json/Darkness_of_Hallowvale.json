@@ -1,0 +1,63 @@
+{
+    "id": "Darkness_of_Hallowvale",
+    "name": "Darkness of Hallowvale",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Very long",
+    "series": [
+        "Myreque"
+    ],
+    "description": "Fighting tooth and nail against the vampyre overlord, Drakan, the Myreque have moved their secret base camp to Burgh de Rott. Now the fight starts in earnest! Veliaf needs someone to make their way into the Sanguinesti region, the eastern side of Morytania cut off from the west behind an impenetrably huge wall.\n\nWill the fight be supported by Myreque resistance inside the vampyres' domain? What grim discoveries are to be found behind that dread wall? And what of the Vyrewatch - deadly sky-bound patrollers of the blood-tithed lands of Meiyerditch?\n\nOnly a daring, quick-witted agent with an eye for detail can hope to pick their way through the tumbled down slums of Meiyerditch.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Darkness_of_Hallowvale.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Darkness_of_Hallowvale",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Darkness_of_Hallowvale/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2006-09-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Construction",
+                "level": 5
+            },
+            {
+                "name": "Mining",
+                "level": 20
+            },
+            {
+                "name": "Thieving",
+                "level": 22
+            },
+            {
+                "name": "Agility",
+                "level": 26
+            },
+            {
+                "name": "Crafting",
+                "level": 32
+            },
+            {
+                "name": "Magic",
+                "level": 33
+            },
+            {
+                "name": "Strength",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": [
+            "In Aid of the Myreque",
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

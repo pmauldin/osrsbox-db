@@ -1,0 +1,30 @@
+{
+    "id": "Priest_in_Peril",
+    "name": "Priest in Peril",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Myreque"
+    ],
+    "description": "Recently contact has been lost with the temple to Saradomin on Misthalins' Eastern border. King Roald would be very interested to know what has caused this lack of communication, and seeks an adventurer willing to report back to him on the situation.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Priest_in_Peril.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Priest_in_Peril",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide",
+    "developer": "James B",
+    "release_date": "2004-06-29",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a combat level 30 enemy without Magic."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

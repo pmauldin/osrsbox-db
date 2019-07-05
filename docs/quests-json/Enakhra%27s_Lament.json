@@ -1,0 +1,49 @@
+{
+    "id": "Enakhra%27s_Lament",
+    "name": "Enakhra's Lament",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": [
+        "Mahjarrat"
+    ],
+    "description": "Lazim the sculptor has a sad tale to tell - his days of making art are over, and now all he can do is carp at adventurers as they make a statue for him in the desert. Although, isn't just south of the Bandit Camp an odd place to be putting up a statue?\nHelp Lazim out with his artistic endeavours, and learn more as this quest goes deeper into the history of ''RuneScape'' than you might expect...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Enakhra%27s_Lament.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Enakhra%27s_Lament",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Enakhra%27s_Lament/Quick_guide",
+    "developer": "Isobel H",
+    "release_date": "2006-01-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 50
+            },
+            {
+                "name": "Firemaking",
+                "level": 45
+            },
+            {
+                "name": "Prayer",
+                "level": 43
+            },
+            {
+                "name": "Magic",
+                "level": 39
+            },
+            {
+                "name": "Mining",
+                "level": 45
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

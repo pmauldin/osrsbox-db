@@ -1,0 +1,35 @@
+{
+    "id": "The_Mage_Arena_II",
+    "name": "The Mage Arena II",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Master",
+    "length": "Short",
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Mage_Arena_II",
+    "wiki_quick_guide_url": null,
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Magic",
+                "level": 75
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Mage Arena"
+        ],
+        "misc": [
+            "Cast Claws of Guthix, Flames of Zamorak, and Saradomin Strike each 100 times inside the Mage Arena."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

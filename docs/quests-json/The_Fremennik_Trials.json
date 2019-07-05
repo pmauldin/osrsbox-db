@@ -1,0 +1,57 @@
+{
+    "id": "The_Fremennik_Trials",
+    "name": "The Fremennik Trials",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "Council workmen have at last found the time to make repairs to the footbridge that connects Kandarin with the Barbarian town of Rellekka.\n\nDo you have what it takes to impress the barbarians who live there, and perhaps be welcomed as an honorary member of their clan?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Fremennik_Trials.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Fremennik_Trials",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Fremennik_Trials/Quick_guide",
+    "developer": "James B",
+    "release_date": "2004-11-02",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Fletching",
+                "level": 25
+            },
+            {
+                "name": "Woodcutting",
+                "level": 40
+            },
+            {
+                "name": "Crafting",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "'''OR'''",
+            "Players kill Lanzig to obtain the lyre ''(1/17 chance)''",
+            "Ability to defeat a level-69 NPC",
+            "Ability to defeat a fairly strong warrior without armour, weapons, or spells"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 48
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": "Rogue_Trader",
+    "name": "Rogue Trader",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Short (if fully prepared)",
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rogue_Trader",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Rogue_Trader/Quick_guide",
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The Feud",
+            "Rune Mysteries",
+            "Icthlarin's Little Helper - gives access to Sophanem"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

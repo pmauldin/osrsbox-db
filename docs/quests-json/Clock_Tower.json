@@ -1,0 +1,28 @@
+{
+    "id": "Clock_Tower",
+    "name": "Clock Tower",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "Help the confused Brother Kojo find the missing cogs and fix his watch tower. Search the dungeon using brawn and brains to correctly place the four cogs.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Clock_Tower.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Clock_Tower",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-06-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to run past level 53 Ogres"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

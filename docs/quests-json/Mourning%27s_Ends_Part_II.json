@@ -1,0 +1,55 @@
+{
+    "id": "Mourning%27s_Ends_Part_II",
+    "name": "Mourning's Ends Part II",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Master",
+    "length": "Very long",
+    "series": [
+        "Elf"
+    ],
+    "description": "This chapter of the quest takes our hero deep under the mountains of Arandar to put a stop to the evil plans of the mourners.\n\nIf our hero is to succeed, they must solve one of the most complicated puzzles in all of Gielinor.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Mourning%27s_Ends_Part_II.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mourning%27s_Ends_Part_II",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Mourning%27s_Ends_Part_II/Quick_guide",
+    "developer": "Dylan C, Graham B",
+    "release_date": "2005-10-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Mourning's Ends Part I",
+            "Roving Elves",
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest",
+            "Big Chompy Bird Hunting",
+            "Sheep Herder"
+        ],
+        "misc": [
+            "All prerequisite quest requirements"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 43
+            },
+            {
+                "name": "Agility",
+                "level": 70
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

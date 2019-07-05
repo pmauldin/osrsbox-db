@@ -1,0 +1,66 @@
+{
+    "id": "Zogre_Flesh_Eaters",
+    "name": "Zogre Flesh Eaters",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Ogre"
+    ],
+    "description": "Run for your lives...the zombie ogres are here for your flesh! An ogre ceremonial dance area, used to communicate with ancient ogrish ancestors, has been overrun with diseased undead ogres.\n\nHow could something like this have happened? And what sort of rewards could an enterprising adventurer gain from exploring the tombs of such a place?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Zogre_Flesh_Eaters.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Zogre_Flesh_Eaters",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Zogre_Flesh_Eaters/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2005-05-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Smithing",
+                "level": 4
+            },
+            {
+                "name": "Herblore",
+                "level": 8
+            },
+            {
+                "name": "Ranged",
+                "level": 30
+            },
+            {
+                "name": "Fletching",
+                "level": 30
+            },
+            {
+                "name": "Strength",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Big Chompy Bird Hunting",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "You must be able to defeat a level 111 enemy."
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 43
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

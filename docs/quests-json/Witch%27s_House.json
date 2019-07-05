@@ -1,0 +1,28 @@
+{
+    "id": "Witch%27s_House",
+    "name": "Witch's House",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short",
+    "series": null,
+    "description": "A young boy who lives in Taverley has kicked his ball into the garden of a scary old lady.\n\nHe asks you to get it back for him. This proves more difficult than it first sounds.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Witch%27s_House.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Witch%27s_House",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-02-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat 4 monsters from level 19 to 53 without a break."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

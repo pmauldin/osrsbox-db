@@ -1,0 +1,28 @@
+{
+    "id": "Enter_the_Abyss",
+    "name": "Enter the Abyss",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short \u2013 Long",
+    "series": null,
+    "description": "In the Abyss miniquest, the player helps the Zamorakians access the rune essence mines so that they can craft their own runes. Previously, it had been a Saradominist secret, but the Mage of Zamorak asks for the player's help in learning it.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Enter_the_Abyss.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Enter_the_Abyss",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Enter_the_Abyss/Quick_guide",
+    "developer": "Andrew Gower",
+    "release_date": "2005-06-13",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Rune Mysteries"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

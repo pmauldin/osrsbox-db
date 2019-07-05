@@ -1,0 +1,32 @@
+{
+    "id": "Ratcatchers",
+    "name": "Ratcatchers",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long \u2013 Very long",
+    "series": null,
+    "description": "Gertrude knows of some ratcatchers in Varrock, pay her a visit and she may tell you of their whereabouts. Perhaps they could show you and your cat a few pointers about rat catching.\n\nEnter the subterranean world of the rat catchers and discover more of your cats true potential.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Ratcatchers.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ratcatchers",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Ratcatchers/Quick_guide",
+    "developer": "Chris J",
+    "release_date": "2005-11-28",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat"
+        ],
+        "misc": [
+            "Access to Keldagrim",
+            "Ironmen will need 54 Herblore (or 200 gp to pay Zahur in Nardah to clean a Grimy Kwuarm) OR obtaining Rat poison located in the Clock Tower Dungeon"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

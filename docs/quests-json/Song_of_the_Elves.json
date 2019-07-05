@@ -1,0 +1,75 @@
+{
+    "id": "Song_of_the_Elves",
+    "name": "Song of the Elves",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Grandmaster",
+    "length": "Very Long",
+    "series": [
+        "Elf"
+    ],
+    "description": "''\u201cYou think you\u2019re the hero of this story, but you\u2019re not\u2026\u201d '''- Lord Iorwerth'''''\n\nBig things have small beginnings. Sixteen years ago, the Plague City quest was added to RuneScape. This quest marked the beginning of the fabled elf quest series, the oldest and longest quest series in the game. From elven rebellions to Dark Lords, the series has told a thrilling story with many twists and turns. Now, after all of these years, it\u2019s finally time for this story to come to its conclusion with Old School RuneScape\u2019s newest Grandmaster quest, '''Song of the Elves!'''\n\nSong of the Elves will see you team up with a range of characters from across the series to finally put an end to the schemes of Lord Iorwerth and King Lathas. Do not expect this to be easy - you will face challenging puzzles and deadly foes as you fight to bring peace to the elven lands.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/Song_of_the_Elves_Promotional_Artwork.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Song_of_the_Elves",
+    "wiki_quick_guide_url": null,
+    "developer": "Mod Ed",
+    "release_date": "2019-07-25",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 70
+            },
+            {
+                "name": "Construction",
+                "level": 70
+            },
+            {
+                "name": "Farming",
+                "level": 70
+            },
+            {
+                "name": "Herblore",
+                "level": 70
+            },
+            {
+                "name": "Hunter",
+                "level": 70
+            },
+            {
+                "name": "Mining",
+                "level": 70
+            },
+            {
+                "name": "Smithing",
+                "level": 70
+            },
+            {
+                "name": "Woodcutting",
+                "level": 70
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Mourning's Ends Part II",
+            "Mourning's Ends Part I",
+            "Big Chompy Bird Hunting",
+            "Sheep Herder",
+            "Roving Elves",
+            "Waterfall Quest",
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Making History",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

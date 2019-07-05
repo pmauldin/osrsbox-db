@@ -1,0 +1,43 @@
+{
+    "id": "Enlightened_Journey",
+    "name": "Enlightened Journey",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short \u2013 Long",
+    "series": null,
+    "description": "On the peaceful island of Entrana, a lone monk has tired of his life of simplicity and quiet reflection. Auguste wants to boldly write his name in the history books; to craftily defeat the laws of physics; to miraculously sail through the air... preferably not to horribly explode into a ball of flaming death. Of course, to do all this, he'll need the help of a worldly adventurer: are you bold enough to merrily laugh in the face of the unknown?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Enlightened_Journey.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Enlightened_Journey",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Enlightened_Journey/Quick_guide",
+    "developer": "Nancy J",
+    "release_date": "2006-11-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 20
+            },
+            {
+                "name": "Firemaking",
+                "level": 20
+            },
+            {
+                "name": "Farming",
+                "level": 30
+            },
+            {
+                "name": "Crafting",
+                "level": 36
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

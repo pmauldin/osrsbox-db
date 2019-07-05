@@ -1,0 +1,30 @@
+{
+    "id": "Shield_of_Arrav",
+    "name": "Shield of Arrav",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Mahjarrat"
+    ],
+    "description": "Varrockian literature tells of a valuable shield, stolen long ago from the museum of Varrock, by a gang of professional thieves. See if you can track down this shield and return it to the museum. You will need a friend to help you complete this quest.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Shield_of_Arrav.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shield_of_Arrav",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide",
+    "developer": "Greg V",
+    "release_date": "2001-01-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "A trustworthy friend or partner. Players can join the official clan chat \"OSRS SOA\" to look for a partner."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

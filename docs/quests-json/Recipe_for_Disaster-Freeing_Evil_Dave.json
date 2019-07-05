@@ -1,0 +1,36 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_Evil_Dave",
+    "name": "Recipe for Disaster/Freeing Evil Dave",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Medium",
+    "series": null,
+    "description": "Evil Dave needs some kind of spicy stew. You will need Evil Dave's help for this one. He lives in his mother's basement...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster_-_Freeing_Evil_Dave.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Evil_Dave",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Evil_Dave/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Gertrude's Cat",
+            "Shadow of the Storm",
+            "Demon Slayer",
+            "The Golem"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

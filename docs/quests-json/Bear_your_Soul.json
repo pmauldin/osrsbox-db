@@ -1,0 +1,20 @@
+{
+    "id": "Bear_your_Soul",
+    "name": "Bear your Soul",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Medium",
+    "series": null,
+    "description": "None",
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bear_your_Soul",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Bear_your_Soul/Quick_guide",
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {},
+    "recommended_requirements": null,
+    "rewards": null
+}

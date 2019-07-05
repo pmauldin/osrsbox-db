@@ -1,0 +1,36 @@
+{
+    "id": "Jungle_Potion",
+    "name": "Jungle Potion",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Karamja"
+    ],
+    "description": "Trufitus Shakaya of the Tai Bwo Wannai Village requires that you collect five special jungle herbs for a potion so he can commune with his Gods.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Jungle_Potion.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Jungle_Potion",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Jungle_Potion/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2002-10-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Herblore",
+                "level": 3
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Druidic Ritual",
+            "The ability to defend against level 53 Jogres and level 46 Harpie Bug Swarms."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,33 @@
+{
+    "id": "Observatory_Quest",
+    "name": "Observatory Quest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short \u2013 Medium",
+    "series": null,
+    "description": "The Observatory in south-west Ardougne has been ransacked by a family of nearby goblins. Can you help the professor to rebuild it?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Observatory_Quest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Observatory_Quest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Observatory_Quest/Quick_guide",
+    "developer": "James B",
+    "release_date": "2003-03-17",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 42 monster."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

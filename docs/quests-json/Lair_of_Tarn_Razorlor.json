@@ -1,0 +1,33 @@
+{
+    "id": "Lair_of_Tarn_Razorlor",
+    "name": "Lair of Tarn Razorlor",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium (Very Short if using a Slayer ring to get to Tarn's Lair)",
+    "series": null,
+    "description": "This miniquest is to kill Tarn Razorlor and retrieve his diary. Using his diary on a salve amulet will enchant it increasing its attack and strength bonuses by 5%.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Lair_of_Tarn_Razorlor.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Lair_of_Tarn_Razorlor",
+    "wiki_quick_guide_url": null,
+    "developer": null,
+    "release_date": "2007-01-22",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Slayer",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The\u00a0Haunted Mine\u00a0quest is required to access Tarn's Lair."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

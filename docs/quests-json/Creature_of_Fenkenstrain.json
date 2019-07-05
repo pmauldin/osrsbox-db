@@ -1,0 +1,40 @@
+{
+    "id": "Creature_of_Fenkenstrain",
+    "name": "Creature of Fenkenstrain",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": null,
+    "description": "Dr Fenkenstrain, master and sole occupant of the castle to the north east of Canifis, needs a new servant to go on a dark errand for him.\n\nDo you have the stomach to help Fenkenstrain complete his twisted purpose?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Creature_of_Fenkenstrain.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Creature_of_Fenkenstrain",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Creature_of_Fenkenstrain/Quick_guide",
+    "developer": "Martin B",
+    "release_date": "2005-01-31",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 20
+            },
+            {
+                "name": "Thieving",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": [
+            "Able to defeat a level 51 monster and run past level 72 monsters"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

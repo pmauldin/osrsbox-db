@@ -1,0 +1,28 @@
+{
+    "id": "In_Search_of_Knowledge",
+    "name": "In Search of Knowledge",
+    "members": true,
+    "type": "Miniquest",
+    "difficulty": "Medium",
+    "length": "Medium",
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/In_Search_of_Knowledge",
+    "wiki_quick_guide_url": null,
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "A high combat level is recommended."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

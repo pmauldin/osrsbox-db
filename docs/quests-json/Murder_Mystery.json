@@ -1,0 +1,22 @@
+{
+    "id": "Murder_Mystery",
+    "name": "Murder Mystery",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Camelot"
+    ],
+    "description": "Old man Sinclair has been found dead in his mansion! Unfortunately, the local authorities are having some trouble figuring out who's the guilty party. Maybe the unbiased eye of a passing adventurer will be of help.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Murder_Mystery.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Murder_Mystery",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Murder_Mystery/Quick_guide",
+    "developer": "James B",
+    "release_date": "2003-06-09",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

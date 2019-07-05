@@ -1,0 +1,41 @@
+{
+    "id": "Olaf%27s_Quest",
+    "name": "Olaf's Quest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short \u2013 Long",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "Poor Olaf Hradson. He has to live up to such expectations. His ancestors sailed all over the world, and now he has to go out and prove himself their equal. If only he could read a map... If only he could sail... If only he hadn't crashed! Can you help a depressed and soggy Fremennik regain his pride, and possibly the lost treasure of his grandfather?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Olaf%27s_Quest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Olaf%27s_Quest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Olaf%27s_Quest/Quick_guide",
+    "developer": "Anthony W",
+    "release_date": "2007-04-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Firemaking",
+                "level": 40
+            },
+            {
+                "name": "Woodcutting",
+                "level": 50
+            }
+        ],
+        "items": null,
+        "quests": [
+            "The Fremennik Trials"
+        ],
+        "misc": [
+            "The ability to defeat a level 100 monster"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

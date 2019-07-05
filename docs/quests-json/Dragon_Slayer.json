@@ -1,0 +1,54 @@
+{
+    "id": "Dragon_Slayer",
+    "name": "Dragon Slayer",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Long",
+    "series": [
+        "Guild"
+    ],
+    "description": "Prove yourself a true champion. Kill the mighty dragon Elvarg of Crandor and earn the right to buy and wear the Rune platebody.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Dragon_Slayer.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dragon_Slayer",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Dragon_Slayer/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-09-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 32
+            },
+            {
+                "name": "Crafting",
+                "level": 8
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 83 Elvarg|dragon"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Magic",
+                "level": 33
+            },
+            {
+                "name": "Prayer",
+                "level": 37
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

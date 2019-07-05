@@ -1,0 +1,37 @@
+{
+    "id": "Eadgar%27s_Ruse",
+    "name": "Eadgar's Ruse",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Troll"
+    ],
+    "description": "Sanfew requires a rare herb for the next part of the purifying ritual.\n\nTravel back to the Troll Stronghold to find this herb that the trolls use as an ingredient for their favourite dish.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Eadgar%27s_Ruse.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Eadgar%27s_Ruse",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Eadgar%27s_Ruse/Quick_guide",
+    "developer": "Chris S",
+    "release_date": "2004-10-05",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Herblore",
+                "level": 31
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Druidic Ritual",
+            "Troll Stronghold",
+            "Death Plateau"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

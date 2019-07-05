@@ -1,0 +1,28 @@
+{
+    "id": "Demon_Slayer",
+    "name": "Demon Slayer",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": null,
+    "description": "A mighty demon is being summoned to destroy the city of Varrock. You find out you are the one destined to stop him (or at least try).",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Demon_Slayer.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Demon_Slayer",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-01-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 27 Delrith|demon aided by three level 20 Dark wizards and two level 7 Dark wizards using the Silverlight in melee."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

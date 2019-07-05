@@ -1,0 +1,69 @@
+{
+    "id": "Swan_Song",
+    "name": "Swan Song",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Medium",
+    "series": [
+        "Wise Old Man"
+    ],
+    "description": "Out on the edge of the known world, the Piscatoris Fishing Colony stands on the brink of disaster. Angry sea trolls are emerging from the sea and attacking the colonists, preventing them from harvesting the valuable monkfish that live in those waters. A highly experienced adventurer will be needed to drive back the trolls for good. The Colony's director, Herman Caranos, has a particular adventurer in mind: the notoriously amoral Wise Old Man of Draynor Village (allegations of his involvement in a spectacular bank robbery have never been substantiated). If you're in the mood for a bit of combat, jump on the boat on the west side of the Gnome Stronghold, speak to the Colony's director and prepare to fight alongside the Wise Old Man as he embarks on his final adventure - his ''swan song''.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Swan_Song.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Swan_Song",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Swan_Song/Quick_guide",
+    "developer": "Ashleigh B",
+    "release_date": "2006-05-02",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 100
+            },
+            {
+                "name": "Magic",
+                "level": 66
+            },
+            {
+                "name": "Cooking",
+                "level": 62
+            },
+            {
+                "name": "Fishing",
+                "level": 62
+            },
+            {
+                "name": "Smithing",
+                "level": 45
+            },
+            {
+                "name": "Firemaking",
+                "level": 42
+            },
+            {
+                "name": "Crafting",
+                "level": 40
+            }
+        ],
+        "items": null,
+        "quests": [
+            "One Small Favour",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Garden of Tranquillity",
+            "Creature of Fenkenstrain",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": [
+            "The ability to defeat a combat level 170 monster, which is able to use Magic, Melee and can drain Prayer."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

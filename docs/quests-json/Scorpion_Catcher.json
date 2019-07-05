@@ -1,0 +1,35 @@
+{
+    "id": "Scorpion_Catcher",
+    "name": "Scorpion Catcher",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short \u2013 Medium",
+    "series": null,
+    "description": "Thormac the Sorcerer has a hobby involving scorpions. Unfortunately, three of them have escaped and managed to run far away. If you manage to find them all, he may just be able to perform an important service for you.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Scorpion_Catcher.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Scorpion_Catcher",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Scorpion_Catcher/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-03-25",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 31
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Alfred Grimhand's Barcrawl"
+        ],
+        "misc": [
+            "The ability to run past level 172 black demons and level 64 poison spiders"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

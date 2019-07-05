@@ -1,0 +1,31 @@
+{
+    "id": "Merlin%27s_Crystal",
+    "name": "Merlin's Crystal",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Camelot"
+    ],
+    "description": "The wizard Merlin has been trapped in a magical crystal by the witch Morgan Le Faye. So far, King Arthur hasn't been able to figure out how to free his mentor from his crystal prison. Can you help?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Merlin%27s_Crystal.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Merlin%27s_Crystal",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Merlin%27s_Crystal/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-02-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 37 enemy.",
+            "Attack level 20 to wield Excalibur. (Optional, can use from inventory)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

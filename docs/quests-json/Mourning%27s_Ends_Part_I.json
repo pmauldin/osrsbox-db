@@ -1,0 +1,48 @@
+{
+    "id": "Mourning%27s_Ends_Part_I",
+    "name": "Mourning's Ends Part I",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Long \u2013 Very long",
+    "series": [
+        "Elf"
+    ],
+    "description": "It seems at last Arianwyn has need of your skills.\n\nHe believes there is more to the Mourners than meets the eye and he wishes for you to find out just what they're up to. Can you gain the trust of the Mourners?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Mourning%27s_Ends_Part_I.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mourning%27s_Ends_Part_I",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Mourning%27s_Ends_Part_I/Quick_guide",
+    "developer": "Dylan C",
+    "release_date": "2005-07-19",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Ranged",
+                "level": 60
+            },
+            {
+                "name": "Thieving",
+                "level": 50
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Roving Elves",
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest",
+            "Big Chompy Bird Hunting ''(Not required to start quest)''",
+            "Sheep Herder"
+        ],
+        "misc": [
+            "The ability to defeat a level 11 enemy with your combat stats reduced to 20 each."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

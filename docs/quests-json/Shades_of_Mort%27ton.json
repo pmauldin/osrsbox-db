@@ -1,0 +1,45 @@
+{
+    "id": "Shades_of_Mort%27ton",
+    "name": "Shades of Mort'ton",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short",
+    "series": [
+        "Mort'ton"
+    ],
+    "description": "The townsfolk of Mort'ton have some form of strange affliction and the town is full of Shades. Can you find some way to reverse this?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Shades_of_Mor%27ton.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shades_of_Mort%27ton",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Shades_of_Mort%27ton/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2004-10-18",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 20
+            },
+            {
+                "name": "Herblore",
+                "level": 15
+            },
+            {
+                "name": "Firemaking",
+                "level": 5
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Must have completed Priest in Peril to be able to get to Mort'ton.",
+            "Must be able to defeat 5 level-40 Loar Shades.",
+            "Must be able to survive an onslaught when rebuilding the Temple, and many players make this much easier."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

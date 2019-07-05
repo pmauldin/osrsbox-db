@@ -1,0 +1,31 @@
+{
+    "id": "Eagles%27_Peak",
+    "name": "Eagles' Peak",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": null,
+    "description": "The Ardougne Zoo is always looking for new specimens, but one of their anticipated new attractions - a ferret from the north - has been proving elusive.\n\nOne of the Zoo's more eccentric freelance specimen hunters is reported to be on the case, but after setting out for the far western reaches, somewhere between the Piscatoris Fishing Colony and the Tree Gnome Stronghold, nothing more has been heard from him.\n\nWill you be able to use your skills as a Hunter to track him down? What else will you discover at the mountain known as Eagles' Peak?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Eagles%27_peak.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Eagles%27_Peak",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Eagles%27_Peak/Quick_guide",
+    "developer": "Ian Gower",
+    "release_date": "2006-11-28",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Hunter",
+                "level": 27
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

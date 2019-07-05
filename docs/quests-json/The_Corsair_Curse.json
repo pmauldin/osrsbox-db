@@ -1,0 +1,20 @@
+{
+    "id": "The_Corsair_Curse",
+    "name": "The Corsair Curse",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "From the newly revealed town of Corsair Cove, deep in the south of Feldip Hills, the captain of the Corsairs has sailed to Port Sarim seeking help. His crew is sick, and he suspects that a curse has been laid upon them.\n\nIf you can unravel the fearful and conflicting tales of ogre relics, vengeful mermaids and demonic possession, maybe you can help his ailing crew overcome The Corsair Curse.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Corsair_Curse.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Corsair_Curse",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Corsair_Curse/Quick_guide",
+    "developer": "Mod Ash",
+    "release_date": "2017-12-07",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

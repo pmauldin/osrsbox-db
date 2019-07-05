@@ -1,0 +1,37 @@
+{
+    "id": "Holy_Grail",
+    "name": "Holy Grail",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Camelot (#2)"
+    ],
+    "description": "King Arthur is sending out his knights on a quest for the famous Holy Grail.\nIf you are a Knight of the Round Table go to King Arthur for further orders.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Holy_Grail.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Holy_Grail",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Holy_Grail/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-07-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Attack",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Merlin's Crystal"
+        ],
+        "misc": [
+            "Must be able to defeat a level 120 Black Knight Titan (can be safe-spotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

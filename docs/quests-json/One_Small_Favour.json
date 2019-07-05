@@ -1,0 +1,50 @@
+{
+    "id": "One_Small_Favour",
+    "name": "One Small Favour",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Very long",
+    "series": [
+        "Karamja"
+    ],
+    "description": "If you're new to Shilo Village after solving the mystery (or even if you did it some time ago), you may like to check out Yanni Salika's antiques shop.\n\nHe's a busy chap, revamping antique items, checking out new stock from potential adventurers and maybe he'll have a small<sup>(1)</sup> favour to ask of you? Probably nothing particularly large, Yanni isn't a demanding<sup>(2)</sup> person, should hardly take you any time<sup>(3)</sup> at all really, something to do when you have a spare moment.\n\nThat's assuming there aren't any complications.\n\n1: - Perception of the word \"small\" may be open to interpretation.\n\n2: - In a recent vote, Yanni Salika was only voted the second most demanding person in Shilo Village.\n\n3: - As everyone knows, time is relative.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:One_Small_Favour.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/One_Small_Favour",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/One_Small_Favour/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2005-02-28",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 36
+            },
+            {
+                "name": "Crafting",
+                "level": 25
+            },
+            {
+                "name": "Herblore",
+                "level": 18
+            },
+            {
+                "name": "Smithing",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

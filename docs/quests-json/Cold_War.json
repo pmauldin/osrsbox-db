@@ -1,0 +1,51 @@
+{
+    "id": "Cold_War",
+    "name": "Cold War",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Penguin"
+    ],
+    "description": "At the Ardougne Zoo, one of the zookeepers has become a bit preoccupied by penguins. In fact, he's downright paranoid about them. He needs your help to observe their habits on the iceberg in the Lunar Sea.\n\nWhat begins as a peaceful bird-watching expedition opens a new world of espionage and bad musicians.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Cold_War.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cold_War",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Cold_War/Quick_guide",
+    "developer": "Nancy J",
+    "release_date": "2007-01-29",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Hunter",
+                "level": 10
+            },
+            {
+                "name": "Agility",
+                "level": 30
+            },
+            {
+                "name": "Crafting",
+                "level": 30
+            },
+            {
+                "name": "Construction",
+                "level": 34
+            },
+            {
+                "name": "Thieving",
+                "level": 15
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Access to a crafting table 3"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

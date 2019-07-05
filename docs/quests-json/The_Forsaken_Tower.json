@@ -1,0 +1,32 @@
+{
+    "id": "The_Forsaken_Tower",
+    "name": "The Forsaken Tower",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "For thousands of years, the Wintertodt has remained safely sealed behind the great Doors of Dinh. Alas, despite the best attempts of the Lovakengj smiths and the Arceuus mages, the doors are failing. Only Dinh himself knew the secrets behind the creation of these doors. Without his knowledge, there may be nothing to stop the Wintertodt escaping and bringing ruin upon Kourend. It is up to you to recover this knowledge.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/The_Forsaken_Tower.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Forsaken_Tower",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Forsaken_Tower/Quick_guide",
+    "developer": "Mod Ed",
+    "release_date": "2019-01-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Client of Kourend"
+        ],
+        "misc": [
+            "20% Lovakengj favour"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

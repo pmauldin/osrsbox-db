@@ -1,0 +1,45 @@
+{
+    "id": "Dream_Mentor",
+    "name": "Dream Mentor",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "RuneScape is not the safest place to live - dragons, trolls, demons... dangerous and despicable monsters of all sorts roam free. In this quest, you must help a fellow adventurer that doesn't do so well against these threats. With perseverence and the magical help of the Moon Clan, there should be no monster that can't be beaten. But is that really true? How about the monsters in your dreams? How about your own inescapable fears? How would you defeat them? Well, you'll soon find out as a tough and often bizarre quest awaits those of a strong will!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Dream_Mentor.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dream_Mentor",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Dream_Mentor/Quick_guide",
+    "developer": "Tim C",
+    "release_date": "2007-05-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Combat",
+                "level": 85
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Lunar Diplomacy",
+            "The Fremennik Trials",
+            "Lost City",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Eadgar's Ruse",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Druidic Ritual"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

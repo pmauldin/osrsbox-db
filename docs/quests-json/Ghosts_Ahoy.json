@@ -1,0 +1,20 @@
+{
+    "id": "Ghosts_Ahoy",
+    "name": "Ghosts Ahoy",
+    "members": true,
+    "type": "Quest",
+    "difficulty": null,
+    "length": null,
+    "series": null,
+    "description": null,
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Ghosts_Ahoy.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Ghosts_Ahoy",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Ghosts_Ahoy/Quick_guide",
+    "developer": "Martin B",
+    "release_date": "2005-02-15",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

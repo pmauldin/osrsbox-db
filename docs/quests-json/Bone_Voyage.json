@@ -1,0 +1,34 @@
+{
+    "id": "Bone_Voyage",
+    "name": "Bone Voyage",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "N/A"
+    ],
+    "description": "Curator Haig Halen needs your help to finish the construction of a barge fit to take the Varrock museum crew to an unexplored landmass to the east. There have been many attempts to reach the island, but none were successful.\n\nThis quest will have you venturing across Gielinor, aiding the Varrock museum and making the success of the voyage a possibility.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Bone_Voyage.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Bone_Voyage",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Bone_Voyage/Quick_guide",
+    "developer": "Marion C.",
+    "release_date": "2017-09-07",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "The Dig Site",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "100 Kudos",
+            "Have sailed to Great Kourend at least once"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

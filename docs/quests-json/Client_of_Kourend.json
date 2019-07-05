@@ -1,0 +1,22 @@
+{
+    "id": "Client_of_Kourend",
+    "name": "Client of Kourend",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "Will you help Veos handle a mysterious client?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Client_of_Kourend.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Client_of_Kourend",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Client_of_Kourend/Quick_guide",
+    "developer": "Mod Wolf",
+    "release_date": "2017-04-20",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,30 @@
+{
+    "id": "The_General%27s_Shadow",
+    "name": "The General's Shadow",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Medium",
+    "series": null,
+    "description": "None",
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_General%27s_Shadow",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_General%27s_Shadow/Quick_guide",
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Curse of the Empty Lord, for full ghostly robes",
+            "Started Desert Treasure, for the ring of visibility",
+            "Fight Arena"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

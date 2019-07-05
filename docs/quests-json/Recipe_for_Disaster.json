@@ -1,0 +1,129 @@
+{
+    "id": "Recipe_for_Disaster",
+    "name": "Recipe for Disaster",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Very long",
+    "series": null,
+    "description": "The cook in Lumbridge has a surprisingly small number of ingredients to hand in his kitchen, possibly as a result of an endless stream of newcomers with light fingers, taking anything that isn't nailed down from his kitchen.\n\nLuckily, in the past, a kind Cook's Assistant was willing to help him in his culinary duties, but a problem has now appeared that could spell... a '''Recipe For Disaster'''!\n\nAlmost all members may attempt to solve his tricky predicament, and be rewarded accordingly, but only the very elite of Questers will be able to put an end to his problem permanently!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 175
+            },
+            {
+                "name": "Cooking",
+                "level": 70
+            },
+            {
+                "name": "Agility",
+                "level": 48
+            },
+            {
+                "name": "Mining",
+                "level": 50
+            },
+            {
+                "name": "Fishing",
+                "level": 53
+            },
+            {
+                "name": "Thieving",
+                "level": 53
+            },
+            {
+                "name": "Herblore",
+                "level": 25
+            },
+            {
+                "name": "Magic",
+                "level": 59
+            },
+            {
+                "name": "Smithing",
+                "level": 40
+            },
+            {
+                "name": "Firemaking",
+                "level": 50
+            },
+            {
+                "name": "ranged",
+                "level": 40
+            },
+            {
+                "name": "Crafting",
+                "level": 40
+            },
+            {
+                "name": "Fletching",
+                "level": 10
+            },
+            {
+                "name": "Slayer",
+                "level": 10
+            },
+            {
+                "name": "Woodcutting",
+                "level": 36
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Cook's Assistant",
+            "Fishing Contest",
+            "Goblin Diplomacy",
+            "Big Chompy Bird Hunting",
+            "Murder Mystery",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Witch's House",
+            "Gertrude's Cat",
+            "Shadow of the Storm",
+            "Demon Slayer",
+            "The Golem",
+            "Started Legends' Quest",
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer",
+            "Druidic Ritual",
+            "Shilo Village",
+            "Jungle Potion",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Monkey Madness I",
+            "The Grand Tree",
+            "Tree Gnome Village",
+            "Desert Treasure",
+            "The Dig Site",
+            "Temple of Ikov",
+            "The Tourist Trap",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Waterfall Quest",
+            "Horror from the Deep",
+            "Alfred Grimhand's Barcrawl miniquest"
+        ],
+        "misc": [
+            "All prerequisite quest requirements",
+            "The ability to defeat many high level monsters without Prayer"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

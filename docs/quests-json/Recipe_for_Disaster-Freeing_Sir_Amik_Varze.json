@@ -1,0 +1,49 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_Sir_Amik_Varze",
+    "name": "Recipe for Disaster/Freeing Sir Amik Varze",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Medium",
+    "series": null,
+    "description": "Sir Amik Varze requires a cr\u00e8me brulee supreme. Talk to the Cook to learn how to make one in this complicated but fun subquest.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Sir_Amik_Varze",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Sir_Amik_Varze/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 107
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Family Crest",
+            "Heroes' Quest",
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest"
+        ],
+        "misc": [
+            "Access to the Kharazi Jungle",
+            "Started Legends' Quest",
+            "The ability to defeat a level 227 Black dragon"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

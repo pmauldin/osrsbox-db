@@ -1,0 +1,20 @@
+{
+    "id": "Romeo_%26_Juliet",
+    "name": "Romeo & Juliet",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "Romeo and Juliet are desperately in love, but Juliet's father doesn't approve. Help them to find a way to get married and live happily ever after.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Romeo_%26_Juliet.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Romeo_%26_Juliet",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide",
+    "developer": "Rob L, Paul Gower",
+    "release_date": "2001-01-04",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

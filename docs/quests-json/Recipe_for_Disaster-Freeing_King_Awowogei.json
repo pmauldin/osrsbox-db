@@ -1,0 +1,42 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_King_Awowogei",
+    "name": "Recipe for Disaster/Freeing King Awowogei",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Medium \u2013 Long",
+    "series": null,
+    "description": "Awowogei needs his favourite food, but nobody seems to know what it is. Maybe you should go talk to him in his palace.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster_-_Freeing_King_Awowogei.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_King_Awowogei",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_King_Awowogei/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 70
+            },
+            {
+                "name": "Agility",
+                "level": 48
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Monkey Madness I",
+            "The Grand Tree",
+            "Tree Gnome Village"
+        ],
+        "misc": [
+            "The ability to defeat a level 84 Big Snake",
+            "43 prayer highly recommended"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

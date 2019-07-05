@@ -1,0 +1,20 @@
+{
+    "id": "Alfred_Grimhand%27s_Barcrawl",
+    "name": "Alfred Grimhand's Barcrawl",
+    "members": true,
+    "type": "Miniquest",
+    "difficulty": "Novice",
+    "length": "Medium (Short if The Grand Tree is completed)",
+    "series": null,
+    "description": "Go to bars and buy alcohol.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Alfred_Grimhand%27s_Barcrawl.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Alfred_Grimhand%27s_Barcrawl",
+    "wiki_quick_guide_url": null,
+    "developer": "Andrew Gower",
+    "release_date": "2002-03-25",
+    "required_for_completing": null,
+    "requirements": {},
+    "recommended_requirements": null,
+    "rewards": null
+}

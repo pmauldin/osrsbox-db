@@ -1,0 +1,36 @@
+{
+    "id": "Nature_Spirit",
+    "name": "Nature Spirit",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Myreque"
+    ],
+    "description": "After saving the holy man Drezel, he's seeking some assistance again.\nThis time he has a special request for any adventurous sorts to search for the Druid 'Filliman Tarlock' and brave the terrors that infest the swamp of Mort Myre.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Nature_Spirit.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Nature_Spirit",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Nature_Spirit/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2004-07-13",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 18
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

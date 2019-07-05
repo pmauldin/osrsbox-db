@@ -1,0 +1,57 @@
+{
+    "id": "Heroes%27_Quest",
+    "name": "Heroes' Quest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Guild"
+    ],
+    "description": "Prove you are worthy to enter the Heroes' Guild. To prove your status as a hero you will need to obtain a number of items. There are many challenges standing between you and these items.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Heroes%27_Quest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Heroes%27_Quest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Heroes%27_Quest/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-02-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 55
+            },
+            {
+                "name": "Cooking",
+                "level": 53
+            },
+            {
+                "name": "Fishing",
+                "level": 53
+            },
+            {
+                "name": "Herblore",
+                "level": 25
+            },
+            {
+                "name": "Mining",
+                "level": 50
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Shield of Arrav",
+            "Lost City",
+            "Merlin's Crystal",
+            "Dragon Slayer",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "A partner"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

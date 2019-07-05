@@ -1,0 +1,62 @@
+{
+    "id": "My_Arm%27s_Big_Adventure",
+    "name": "My Arm's Big Adventure",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Troll"
+    ],
+    "description": "Trolls love goutweed. They love it so much that they've picked it all, and now they can't get any more. However, in his smelly kitchen in the Troll Stronghold, Burntmeat the cook has heard a rumour that goutweed is growing once again, for anyone who's got the skill to farm it. Can you teach his young assistant - a simple troll known as My Arm - to grow the precious goutweed? Will you overcome My Arm's stubbornness and ignorance to earn yourself Burntmeat's reward? Dare you accompany My Arm on this uniquely trollish expedition?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:My_Arm%27s_Big_Adventure.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/My_Arm%27s_Big_Adventure",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/My_Arm%27s_Big_Adventure/Quick_guide",
+    "developer": "Ashleigh B",
+    "release_date": "2006-10-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Woodcutting",
+                "level": 10
+            },
+            {
+                "name": "Farming",
+                "level": 29
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Eadgar's Ruse",
+            "Troll Stronghold",
+            "Death Plateau",
+            "The Feud",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "At least 60% favour in the Tai Bwo Wannai Cleanup minigame - must be acquired BEFORE starting this quest (it will be subtracted from total).",
+            "The ability to defeat a powerful level 172 Giant Roc"
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Prayer",
+                "level": 43
+            },
+            {
+                "name": "Magic",
+                "level": 61
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

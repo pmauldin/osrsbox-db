@@ -1,0 +1,43 @@
+{
+    "id": "The_Eyes_of_Glouphrie",
+    "name": "The Eyes of Glouphrie",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Gnome"
+    ],
+    "description": "After you foiled a plan to destroy the Grand Tree things have been quiet in the gnome world. Brimstail has found a strange machine, though, built by Oaknock the Engineer during the Gnomes' Golden Age. What does the weird device do? Why on ''RuneScape'' was it built? If you agree to help this bookworm gnome get this confusing device working, you will learn a little about gnome magicks, gnome history, and you will start to uncover a new threat (or is it an old one?) to gnome security - a threat that is a lot harder to see ...",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Eyes_of_Glouphrie.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Eyes_of_Glouphrie",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Eyes_of_Glouphrie/Quick_guide",
+    "developer": "Chihiro Y",
+    "release_date": "2006-08-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Construction",
+                "level": 5
+            },
+            {
+                "name": "Magic",
+                "level": 46
+            },
+            {
+                "name": "Woodcutting",
+                "level": 45
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Completed The Grand Tree quest."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

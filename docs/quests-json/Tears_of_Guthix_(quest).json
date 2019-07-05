@@ -1,0 +1,43 @@
+{
+    "id": "Tears_of_Guthix_(quest)",
+    "name": "Tears of Guthix (quest)",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Very Short (2 minutes)",
+    "series": null,
+    "description": "Deep in the caves in the Lumbridge Swamp is an enchanted place where the tears shed by Guthix when it saw the destruction Saradomin and Zamorak had caused with their wars flow from the very walls. These tears are said to have magical properties to help players gain deeper understanding of the world. However, the cave is guarded by a loyal serpent named Juna who blocks passage from everyone. However, she has grown bored from three thousand years of sitting in the dark cave and wishes to hear stories of life above. Maybe you could come to some sort of arrangement...?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Tears_of_Guthix_(quest).png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tears_of_Guthix_(quest)",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Tears_of_Guthix_(quest)/Quick_guide",
+    "developer": "John A",
+    "release_date": "2005-05-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest points",
+                "level": 43
+            },
+            {
+                "name": "Firemaking",
+                "level": 49
+            },
+            {
+                "name": "Crafting",
+                "level": 20
+            },
+            {
+                "name": "Mining",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

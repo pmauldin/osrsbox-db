@@ -1,0 +1,56 @@
+{
+    "id": "A_Taste_of_Hope",
+    "name": "A Taste of Hope",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Long",
+    "series": [
+        "Myreque"
+    ],
+    "description": "For many years, the Myreque have fought back against the reign of the Drakans. To many, they act as a glimmer of hope in an otherwise miserable existence. In recent times, the Myreque have been beset by disaster, with numerous members meeting a gruesome end at the hands of Vanstrom Klause, the brutal henchman of the Drakans. However, while the Myreque may be in their darkest hour, hope still remains. Thanks to a recent discovery in the laboratories deep beneath Meiyerditch, the Myreque may have finally found a way to take the fight to the vampyres.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:A_Taste_of_Hope.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/A_Taste_of_Hope",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/A_Taste_of_Hope/Quick_guide",
+    "developer": "Mod Ed",
+    "release_date": "2018-05-24",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 48
+            },
+            {
+                "name": "Agility",
+                "level": 45
+            },
+            {
+                "name": "Attack",
+                "level": 40
+            },
+            {
+                "name": "Herblore",
+                "level": 40
+            },
+            {
+                "name": "Slayer",
+                "level": 38
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Darkness of Hallowvale",
+            "In Aid of the Myreque",
+            "In Search of the Myreque",
+            "Nature Spirit",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

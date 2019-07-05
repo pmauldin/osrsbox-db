@@ -1,0 +1,31 @@
+{
+    "id": "Waterfall_Quest",
+    "name": "Waterfall Quest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Elf",
+        "Gnome"
+    ],
+    "description": "Investigate the death of elven leaders of old. Search for the elf King Baxtorian's tomb and discover the mysterious hidden treasure of the waterfall.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Waterfall_Quest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Waterfall_Quest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide",
+    "developer": "John Lock",
+    "release_date": "2002-09-24",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to withstand and evade attacks from level 84 Moss giant (Roving Elves)|Moss giants without any equipment."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

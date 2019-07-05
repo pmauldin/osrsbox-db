@@ -1,0 +1,33 @@
+{
+    "id": "Sea_Slug",
+    "name": "Sea Slug",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short",
+    "series": [
+        "Sea Slug"
+    ],
+    "description": "Something strange is happening on the Fishing Platform.\nMissing fishermen and the presence of dozens of strange sea creatures gives cause for concern.\nInvestigate the platform, discover the truth before it's too late.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Sea_Slug.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Sea_Slug",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-09-09",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Firemaking",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

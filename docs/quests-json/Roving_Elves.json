@@ -1,0 +1,42 @@
+{
+    "id": "Roving_Elves",
+    "name": "Roving Elves",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 4",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Elf",
+        "Gnome"
+    ],
+    "description": "Deep in the elven forests of Isafdar, live a duo of roving elves: Islwyn a grumpy, old elf who dislikes humans and his companion, Eluned, who is a beautiful, friendly, young female elf with a kind heart. In this quest, you are challenged to overcome Islwyn's prejudice against humans and alleviate the burdens of the past.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Roving_Elves.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Roving_Elves",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Roving_Elves/Quick_guide",
+    "developer": "Dylan C",
+    "release_date": "2005-02-07",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 56
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Regicide",
+            "Underground Pass",
+            "Biohazard",
+            "Plague City",
+            "Waterfall Quest"
+        ],
+        "misc": [
+            "The ability to defeat a level 84 enemy without runes, weapons, or armour"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

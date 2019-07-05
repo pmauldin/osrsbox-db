@@ -1,0 +1,39 @@
+{
+    "id": "Recruitment_Drive",
+    "name": "Recruitment Drive",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Temple Knight"
+    ],
+    "description": "The Temple Knights of Saradomin, a secret organisation founded many centuries ago by Saradomin himself, are currently looking to expand their ranks with some new blood.\n\nAfter the successful thwarting of the Black Knights' plans to take over Asgarnia, and with the personal recommendation of Sir Amik, you have now been offered the chance to apply for membership in this organization... but are you up to the challenge?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recruitment_Drive.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recruitment_Drive",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recruitment_Drive/Quick_guide",
+    "developer": "James B",
+    "release_date": "2005-06-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Quest",
+                "level": 12
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Black Knights' Fortress",
+            "Druidic Ritual"
+        ],
+        "misc": [
+            "The ability to defeat a level 20 monster without any items at all",
+            "Changing your character to a Female (3000 Coins at the  Make-over mage Southwest of Falador.)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

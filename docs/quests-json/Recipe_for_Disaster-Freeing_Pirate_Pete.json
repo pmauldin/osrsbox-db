@@ -1,0 +1,37 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_Pirate_Pete",
+    "name": "Recipe for Disaster/Freeing Pirate Pete",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Medium",
+    "series": null,
+    "description": "Pirate Pete needs a fishcake to be protected. Talk to the Lumbridge Cook to learn how to make one.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster_-_Freeing_Pirate_Pete.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Pirate_Pete",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_Pirate_Pete/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 31
+            },
+            {
+                "name": "Crafting",
+                "level": 42
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat 5 level 30 monsters."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

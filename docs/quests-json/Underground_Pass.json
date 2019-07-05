@@ -1,0 +1,53 @@
+{
+    "id": "Underground_Pass",
+    "name": "Underground Pass",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Long",
+    "series": [
+        "Elf"
+    ],
+    "description": "There are rumours of a secret passageway that can be used to get to the other side of the mountains west of Ardougne. Now it's just a matter of finding it.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Underground_Pass.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Underground_Pass",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Underground_Pass/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2003-03-03",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Ranged",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Biohazard",
+            "Plague City"
+        ],
+        "misc": [
+            "Level 79 combat will make Blessed spiders non-aggressive, which saves some time while killing Kalrag."
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 50
+            },
+            {
+                "name": "Prayer",
+                "level": 43
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

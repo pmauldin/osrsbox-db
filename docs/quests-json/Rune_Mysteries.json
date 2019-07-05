@@ -1,0 +1,20 @@
+{
+    "id": "Rune_Mysteries",
+    "name": "Rune Mysteries",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "Recent research at the Wizards' Tower has found a way to create Runes for the first time in centuries. Assist the head wizard Sedridor in his research and he too may teach you these secrets!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Rune_Mysteries.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rune_Mysteries",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide",
+    "developer": "James B",
+    "release_date": "2003-12-01",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

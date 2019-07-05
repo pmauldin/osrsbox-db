@@ -1,0 +1,35 @@
+{
+    "id": "The_Feud",
+    "name": "The Feud",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Desert"
+    ],
+    "description": "Ali Morrisane - RuneScape's self proclaimed 'greatest merchant' - is having difficulties. He is selling things at such a rate that he cannot keep his market stall in stock.\n\nWord has it that he is on the lookout for someone; someone who can recruit some help from his home town Pollnivneach - a somewhat anarchic place, south of the Shantay pass.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Feud.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Feud",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Feud/Quick_guide",
+    "developer": "Chris J",
+    "release_date": "2005-04-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to kill a level 70 Bandit champion|bandit and a level 75 Tough Guy|Menaphite"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

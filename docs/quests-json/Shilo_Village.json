@@ -1,0 +1,45 @@
+{
+    "id": "Shilo_Village",
+    "name": "Shilo Village",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Karamja"
+    ],
+    "description": "New areas in the Southern part of Karamja Island have been discovered with a mysterious village.\nWho knows what hidden treasures exist, and what dangers lurk to guard them?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Shilo_Village.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Shilo_Village",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Shilo_Village/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2003-01-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 20
+            },
+            {
+                "name": "Agility",
+                "level": 32
+            },
+            {
+                "name": "Smithing",
+                "level": 4
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Jungle Potion"
+        ],
+        "misc": [
+            "Must be able to defend from many Undead ones (level 61-73) and able to defeat three monsters that are about level 90."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

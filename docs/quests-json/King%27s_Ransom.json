@@ -1,0 +1,47 @@
+{
+    "id": "King%27s_Ransom",
+    "name": "King's Ransom",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": [
+        "Camelot (#3)"
+    ],
+    "description": "Life has been quiet at the Sinclair Mansion since you discovered the murderer... too quiet. So quiet, in fact, that the family has gone!\n\nSuspicions are running high that the Sinclairs' recent departure is tied to the disappearance of King Arthur and his knights. But time is running short and clues are scarce, will you crack the case in time?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:King%27s_Ransom.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/King%27s_Ransom",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/King%27s_Ransom/Quick_guide",
+    "developer": "Nancy J",
+    "release_date": "2007-07-24",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Magic",
+                "level": 45
+            },
+            {
+                "name": "Defence",
+                "level": 65
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Black Knights' Fortress",
+            "Holy Grail",
+            "Merlin's Crystal",
+            "Murder Mystery",
+            "One Small Favour",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Jungle Potion",
+            "Druidic Ritual"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

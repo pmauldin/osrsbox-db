@@ -1,0 +1,41 @@
+{
+    "id": "Tale_of_the_Righteous",
+    "name": "Tale of the Righteous",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": [
+        "Great Kourend"
+    ],
+    "description": "Over a thousand years ago, King Shayzien VII ordered an expedition to Mount Quidamortem. The expedition never returned and it was assumed that all members perished in the field. However, a recent discovery suggests this may not have been the case. Phileas Rimor is the descendant of the expedition leader and he is desperate to discover the truth. Join him and delve into a conspiracy a thousand years in the making in \"Tale of the Righteous\".",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Tale_of_the_Righteous.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tale_of_the_Righteous",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Tale_of_the_Righteous/Quick_guide",
+    "developer": "Mod Ed, Mod Kieren",
+    "release_date": "2018-04-19",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Strength",
+                "level": 16
+            },
+            {
+                "name": "Mining",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Client of Kourend"
+        ],
+        "misc": [
+            "20% Shayzien favour"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

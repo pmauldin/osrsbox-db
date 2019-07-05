@@ -1,0 +1,30 @@
+{
+    "id": "Fight_Arena",
+    "name": "Fight Arena",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Short",
+    "series": [
+        "Mahjarrat"
+    ],
+    "description": null,
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Fight_Arena_-_Fighting_General_Khazard.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Fight_Arena",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-07-23",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat level 44, 63 and 137 enemies (all can be safespotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

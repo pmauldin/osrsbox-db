@@ -1,0 +1,57 @@
+{
+    "id": "Rum_Deal",
+    "name": "Rum Deal",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Medium",
+    "series": [
+        "Pirate"
+    ],
+    "description": "Zombie pirates have arisen on Braindeath Island, and they don't look friendly! Production of 'rum' has stopped, and the pirate brewers are running scared. Can you overcome the horde of drunken, undead pirates? Can you even get to the island without getting a splitting headache?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Rum_Deal.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Rum_Deal",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Rum_Deal/Quick_guide",
+    "developer": "Anthony W",
+    "release_date": "2005-10-31",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 42
+            },
+            {
+                "name": "Fishing",
+                "level": 50
+            },
+            {
+                "name": "Farming",
+                "level": 40
+            },
+            {
+                "name": "Prayer",
+                "level": 47
+            },
+            {
+                "name": "Slayer",
+                "level": 42
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Zogre Flesh Eaters",
+            "Big Chompy Bird Hunting",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Priest in Peril"
+        ],
+        "misc": [
+            "The ability to kill a combat level 150 Evil spirit|monster (can be safe-spotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

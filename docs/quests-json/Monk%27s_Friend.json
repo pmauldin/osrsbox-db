@@ -1,0 +1,28 @@
+{
+    "id": "Monk%27s_Friend",
+    "name": "Monk's Friend",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Very short",
+    "series": null,
+    "description": "A monk's child has had their blanket stolen. Find the thieves' den and return the blanket, then help Brother Omad organise the drinks for the child's birthday party.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Monk%27s_Friend.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Monk%27s_Friend",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide",
+    "developer": "Tom W.",
+    "release_date": "2002-05-28",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to run past level 14 thieves, along with a level 26 one."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

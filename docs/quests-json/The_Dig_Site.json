@@ -1,0 +1,43 @@
+{
+    "id": "The_Dig_Site",
+    "name": "The Dig Site",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "The Return of Zaros"
+    ],
+    "description": "Feeling uneducated? Desperate for buried treasure?\n\n\"There's gold in them there hills\" (well stream actually) as well as many other items that can be found at the digsite. Join the students in their attempt to be a qualified archaeologist, and become experienced in making the earth move!\n\nHave you got what it takes to unearth the hidden altar to one of RuneScape's lesser-known Gods?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Dig_Site.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Dig_Site",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Dig_Site/Quick_guide",
+    "developer": "Ian T, Marion C",
+    "release_date": "2003-07-09",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 10
+            },
+            {
+                "name": "Herblore",
+                "level": 10
+            },
+            {
+                "name": "Thieving",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Druidic Ritual (for the Herblore skill)"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

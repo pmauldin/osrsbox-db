@@ -1,0 +1,20 @@
+{
+    "id": "Cook%27s_Assistant",
+    "name": "Cook's Assistant",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "The Lumbridge Castle cook is in a mess. It is the Duke of Lumbridge's birthday and the cook is making the cake.\n\nHe needs a lot of ingredients and doesn't have much time.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Cook%27s_Assistant.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Cook%27s_Assistant",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Cook%27s_Assistant/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-01-04",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,28 @@
+{
+    "id": "A_Soul%27s_Bane",
+    "name": "A Soul's Bane",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Medium",
+    "series": null,
+    "description": "A rift in the ground has opened up releasing all manner of strange monsters into the lands near the Digsite. A sorrowful mother waits at the top of the rift for her long lost son, who has been missing for 25 years. You can journey down into the rift for an adventure full of twisted monsters all created from the mind of a young boy driven to madness through incarceration.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:A_Soul%27s_Bane.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/A_Soul%27s_Bane",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/A_Soul%27s_Bane/Quick_guide",
+    "developer": "Tim C",
+    "release_date": "2006-04-03",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat level 45+ enemies."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

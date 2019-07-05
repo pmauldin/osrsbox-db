@@ -1,0 +1,66 @@
+{
+    "id": "Making_Friends_with_My_Arm",
+    "name": "Making Friends with My Arm",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Master",
+    "length": "Medium",
+    "series": [
+        "Troll"
+    ],
+    "description": "My Arm, the troll from ''My Arm's Big Adventure'', must embark on another journey of discovery. This time, you'll be escorting him to Weiss, a newly discovered troll town in the far north of the world, so he can share his wisdom ''cough'' with the inhabitants, in exchange for learning about their inventions.\n\nLife's journeys can take us to some strange places, but My Arm is about to face the greatest adventure of all - true love. Plus, they'd like him to kill the Wise Old Man of Draynor Village, which doesn't sound like a clever move. Can you help My Arm get a grip on the situation and woo the fair Snowflake over the objections of her father, Mother? Or will My Arm be left to a loveless life of loneliness?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Making_Friends_with_My_Arm.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Making_Friends_with_My_Arm",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Making_Friends_with_My_Arm/Quick_guide",
+    "developer": "Ashleigh B, Mod Munro",
+    "release_date": "2018-09-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Firemaking",
+                "level": 66
+            },
+            {
+                "name": "Mining",
+                "level": 72
+            },
+            {
+                "name": "Construction",
+                "level": 35
+            },
+            {
+                "name": "Agility",
+                "level": 68
+            }
+        ],
+        "items": null,
+        "quests": [
+            "My Arm's Big Adventure",
+            "Eadgar's Ruse",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Druidic Ritual",
+            "The Feud",
+            "Jungle Potion",
+            "Druidic Ritual",
+            "Swan Song",
+            "One Small Favour",
+            "Rune Mysteries",
+            "Shilo Village",
+            "Garden of Tranquillity",
+            "Creature of Fenkenstrain",
+            "Priest in Peril",
+            "The Restless Ghost",
+            "Cold War",
+            "Romeo & Juliet"
+        ],
+        "misc": [
+            "It is beneficial to have a higher Agility level."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

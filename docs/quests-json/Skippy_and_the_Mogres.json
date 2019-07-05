@@ -1,0 +1,35 @@
+{
+    "id": "Skippy_and_the_Mogres",
+    "name": "Skippy and the Mogres",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unknown Difficulty",
+    "length": "Very short",
+    "series": null,
+    "description": "Help a drunken man haunted by the curse of the Mogres.",
+    "start_point": null,
+    "image": null,
+    "wiki_url": "https://oldschool.runescape.wiki/w/Skippy_and_the_Mogres",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Skippy_and_the_Mogres/Quick_guide",
+    "developer": null,
+    "release_date": null,
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Cooking",
+                "level": 20
+            },
+            {
+                "name": "Slayer",
+                "level": 32
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

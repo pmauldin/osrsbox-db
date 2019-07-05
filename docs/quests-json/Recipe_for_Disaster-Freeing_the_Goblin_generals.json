@@ -1,0 +1,28 @@
+{
+    "id": "Recipe_for_Disaster-Freeing_the_Goblin_generals",
+    "name": "Recipe for Disaster/Freeing the Goblin generals",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Special",
+    "length": "Short",
+    "series": null,
+    "description": "The goblin generals need a food that they'll both eat. Find a chef in Goblin Village to learn how to make it.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Recipe_for_Disaster_-_Freeing_the_Goblin_generals.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_the_Goblin_generals",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Recipe_for_Disaster-Freeing_the_Goblin_generals/Quick_guide",
+    "developer": "James B (framework)",
+    "release_date": "2006-03-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Goblin Diplomacy"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

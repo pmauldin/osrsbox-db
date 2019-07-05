@@ -1,0 +1,30 @@
+{
+    "id": "Hazeel_Cult",
+    "name": "Hazeel Cult",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Mahjarrat"
+    ],
+    "description": "Discover the truth behind the Carnillean family fortune. Decide for yourself whether to aid the Carnilleans in retrieving stolen goods, or join the Hazeel cult members in their mission to resurrect the infamous Lord Hazeel.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Hazeel_Cult.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Hazeel_Cult",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-08-15",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Able to defeat a level 13 monster (this applies only if you're taking the good side of the quest)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

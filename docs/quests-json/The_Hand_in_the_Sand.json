@@ -1,0 +1,29 @@
+{
+    "id": "The_Hand_in_the_Sand",
+    "name": "The Hand in the Sand",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": null,
+    "description": "Bert the Sandman in Yanille is in a spot of bother. A Sandy hand|mysterious severed hand has appeared in his sand box. Help find out whose hand it is and, more to the point, how it got in Bert's sand box.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Magically_refilled_sandpit.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Hand_in_the_Sand",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Hand_in_the_Sand/Quick_guide",
+    "developer": "Marion C",
+    "release_date": "2006-01-10",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "White berry spawn found on Lava Dragon Isle and Isafdar",
+            "White berry is an uncommon drop from Cave crawlers"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

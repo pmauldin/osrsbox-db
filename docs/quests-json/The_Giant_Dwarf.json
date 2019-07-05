@@ -1,0 +1,60 @@
+{
+    "id": "The_Giant_Dwarf",
+    "name": "The Giant Dwarf",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium \u2013 Long",
+    "series": [
+        "Rise of the Red Axe"
+    ],
+    "description": "Five hundred years have passed since the rule of King Alvis, saviour of Keldagrim and victim of his own inventions.\n\nHe founded the Consortium: the gathering of Mining companies that were to serve the monarchy. But, eventually, the monarchy came to serve the Consortium.\n\nBy the time of his death, the monarchy was all but abolished. Now the Kings in Keldagrim are but a distant memory... with only the statue of King Alvis to remind the people of the old days, the dark days.\n\nSo begins the Rise of the Red Axe, the new multi-part storyline centered around the dwarves and their capital of Keldagrim. The first quest, The Giant Dwarf, introduces the city and the powerful business Consortium that rules the dwarven realm. Discover weird goings-on, narrowly escape from falling chunks of rock, ride around in minecarts and... make sure you don't bump into the wrong person on the way to the city!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Giant_Dwarf.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Giant_Dwarf",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Giant_Dwarf/Quick_guide",
+    "developer": "Vincent M",
+    "release_date": "2005-05-31",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Crafting",
+                "level": 12
+            },
+            {
+                "name": "Firemaking",
+                "level": 16
+            },
+            {
+                "name": "Magic",
+                "level": 33
+            },
+            {
+                "name": "Thieving",
+                "level": 14
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Mining",
+                "level": 20
+            },
+            {
+                "name": "Smithing",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": [],
+        "misc": null
+    },
+    "rewards": null
+}

@@ -1,0 +1,41 @@
+{
+    "id": "Elemental_Workshop_I",
+    "name": "Elemental Workshop I",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Elemental Workshop"
+    ],
+    "description": "Hundreds of years ago, a mineral was found that had the ability to change the property of Magic.\n\nThe magicians, fearing the effect this may have on their profession, sealed this Workshop forever; or so they had hoped. See if you can rediscover the lost knowledge of elemental ore.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Elemental_Workshop_I.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Elemental_Workshop_I",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Elemental_Workshop_I/Quick_guide",
+    "developer": "Dylan C",
+    "release_date": "2004-06-02",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Mining",
+                "level": 20
+            },
+            {
+                "name": "Smithing",
+                "level": 20
+            },
+            {
+                "name": "Crafting",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

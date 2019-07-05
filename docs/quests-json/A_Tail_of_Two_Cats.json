@@ -1,0 +1,31 @@
+{
+    "id": "A_Tail_of_Two_Cats",
+    "name": "A Tail of Two Cats",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "Dragonkin"
+    ],
+    "description": "Missing: small black cat, answers to the name of Bob.\n\nLast seen on the 19th of Bennath. Please contact Unferth in Burthorpe.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:A_Tail_of_Two_Cats.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/A_Tail_of_Two_Cats",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/A_Tail_of_Two_Cats/Quick_guide",
+    "developer": "Jonathan S",
+    "release_date": "2005-09-26",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": [
+            "Icthlarin's Little Helper",
+            "Gertrude's Cat"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

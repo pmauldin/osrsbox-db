@@ -1,0 +1,31 @@
+{
+    "id": "Tribal_Totem",
+    "name": "Tribal Totem",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short",
+    "series": null,
+    "description": "Lord Handelmort of Ardougne is a collector of exotic artifacts. A recent addition to his private collection is a strange looking totem from Karamja. The Rantuki tribe are not happy about the recent disappearance of their totem.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Tribal_Totem.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tribal_Totem",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-04-30",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 21
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

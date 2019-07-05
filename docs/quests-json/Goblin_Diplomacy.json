@@ -1,0 +1,20 @@
+{
+    "id": "Goblin_Diplomacy",
+    "name": "Goblin Diplomacy",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "There's a disturbance in the Goblin Village. Help the goblins solve their dispute so the world doesn't have to worry about rioting goblins. Aim: to help the goblins decide which colour they will wear.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Goblin_Diplomacy.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Goblin_Diplomacy",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Goblin_Diplomacy/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-05-08",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,40 @@
+{
+    "id": "What_Lies_Below",
+    "name": "What Lies Below",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Runecrafting"
+    ],
+    "description": "A travelling trader has been stranded south of Varrock after his cart was attacked by local outlaws. He needs the help of a hero to recover his lost documents, but that's not all...\n\nThe Varrock Palace Secret Guard (VPSG) are on the trail of treacherous dealings with the Monks of Zamorak. Will you be able to help the VPSG and uncover what lies below?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:What_Lies_Below_infusing_wand.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/What_Lies_Below",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/What_Lies_Below/Quick_guide",
+    "developer": "Danny J",
+    "release_date": "2007-03-27",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Runecraft",
+                "level": 35
+            },
+            {
+                "name": "Mining",
+                "level": 42
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Completed the Rune Mysteries quest.",
+            "Be able to defeat a level 47 enemy."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

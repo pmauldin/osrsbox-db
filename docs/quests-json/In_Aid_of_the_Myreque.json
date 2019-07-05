@@ -1,0 +1,22 @@
+{
+    "id": "In_Aid_of_the_Myreque",
+    "name": "In Aid of the Myreque",
+    "members": true,
+    "type": "Quest",
+    "difficulty": null,
+    "length": null,
+    "series": [
+        "Myreque"
+    ],
+    "description": null,
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:In_Aid_of_the_Myreque.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/In_Aid_of_the_Myreque",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/In_Aid_of_the_Myreque/Quick_guide",
+    "developer": "Tytn H",
+    "release_date": "2006-03-22",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,35 @@
+{
+    "id": "Garden_of_Tranquillity",
+    "name": "Garden of Tranquillity",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Very long",
+    "series": null,
+    "description": "'Queen of Varrock seeks experienced gardener to help construct a garden of peace and serenity as surprise for husband.\n\nOnly serious Farmers need apply. Peasants welcome (although not that welcome). Tools not supplied.\n\nPlease note: under no circumstances are the contents of this message to be disclosed to Rollie \u2013 um, one means King Roald.'",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Garden_of_Tranquillity.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Garden_of_Tranquillity",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Garden_of_Tranquillity/Quick_guide",
+    "developer": "Martin B",
+    "release_date": "2005-08-30",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Farming",
+                "level": 25
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Creature of Fenkenstrain",
+            "Priest in Peril",
+            "The Restless Ghost"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

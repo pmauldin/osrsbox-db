@@ -1,0 +1,20 @@
+{
+    "id": "Dwarf_Cannon",
+    "name": "Dwarf Cannon",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "For several years now, the Dwarven Black Guard have been developing the lastest in projectile warfare.\n\nWith the constant attack of goblin renegades, the dwarven troops who protect the mines need to put this secret weapon into action.\n\nOnly with your help can the true power of this cannon be harnessed!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Dwarf_Cannon.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Dwarf_Cannon",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Dwarf_Cannon/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2003-05-27",
+    "required_for_completing": null,
+    "requirements": {},
+    "recommended_requirements": null,
+    "rewards": null
+}

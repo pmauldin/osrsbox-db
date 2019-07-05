@@ -1,0 +1,20 @@
+{
+    "id": "Imp_Catcher",
+    "name": "Imp Catcher",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "The Wizard Grayzag has summoned hundreds of little imps. They have stolen a lot of things belonging to the Wizard Mizgog including his magic beads.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Imp_Catcher.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Imp_Catcher",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Imp_Catcher/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-02-16",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

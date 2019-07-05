@@ -1,0 +1,35 @@
+{
+    "id": "Mountain_Daughter",
+    "name": "Mountain Daughter",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Medium",
+    "series": [
+        "Fremennik"
+    ],
+    "description": "Ages ago, a small tribe of people split off from the Fremennik in Rellekka and decided to inhabit the mountains to the east of town. There they lived as nomads for many years, but now the chieftain of the camp has lost his daughter and will not move on before she has been found. Has she run away, has she been eaten by trolls, or is there something more sinister going on? Only you can find out.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Mountain_Daughter.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Mountain_Daughter",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Mountain_Daughter/Quick_guide",
+    "developer": "Vincent Van M",
+    "release_date": "2005-03-07",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 20
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": [
+            "The ability to defeat a level 70 The Kendal|monster (can be safespot|safespotted)"
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

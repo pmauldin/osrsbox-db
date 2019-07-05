@@ -1,0 +1,63 @@
+{
+    "id": "Monkey_Madness_II",
+    "name": "Monkey Madness II",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Unable to convert difficulty 6",
+    "length": "Very long",
+    "series": [
+        "Gnome",
+        "Monkey"
+    ],
+    "description": "Glough, the war criminal set on eradicating humans and overthrowing Gielinor, has escaped the watch of the Grand Tree gnomes.\n\nWith a history of leaving large-scale conflicts and warfare in his wake, Glough must be tracked down and stopped. King Narnode Shareen needs your help.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Monkey_Madness_II.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Monkey_Madness_II",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Monkey_Madness_II/Quick_guide",
+    "developer": "Mod Jed, Ian Gower",
+    "release_date": "2016-05-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Slayer",
+                "level": 69
+            },
+            {
+                "name": "Crafting",
+                "level": 70
+            },
+            {
+                "name": "Hunter",
+                "level": 60
+            },
+            {
+                "name": "Agility",
+                "level": 55
+            },
+            {
+                "name": "Thieving",
+                "level": 55
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Enlightened Journey (With Gnome Stronghold Route unlocked, requiring 60 {{Skill clickpic|Firemaking}})",
+            "The Eyes of Glouphrie",
+            "The Grand Tree",
+            "Recipe for Disaster#Awowogei|Recipe for Disaster (Freeing King Awowogei)",
+            "Monkey Madness I",
+            "The Grand Tree",
+            "Tree Gnome Village",
+            "Troll Stronghold",
+            "Death Plateau",
+            "Watchtower"
+        ],
+        "misc": [
+            "It is beneficial to have a high Combat and Agility level."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

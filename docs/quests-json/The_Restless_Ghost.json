@@ -1,0 +1,28 @@
+{
+    "id": "The_Restless_Ghost",
+    "name": "The Restless Ghost",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "A ghost is haunting Lumbridge graveyard. The priest of the Lumbridge church of Saradomin wants you to find out how to get rid of it.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:The_Restless_Ghost.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/The_Restless_Ghost",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2001-01-04",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": null,
+        "items": null,
+        "quests": null,
+        "misc": [
+            "Capable of killing or running away from a combat level 13 skeleton."
+        ]
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,22 @@
+{
+    "id": "Sheep_Herder",
+    "name": "Sheep Herder",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Plague/Elf"
+    ],
+    "description": "Dispose of plagued sheep and save Ardougne!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Sheep_Herder.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Sheep_Herder",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide",
+    "developer": "Tom W",
+    "release_date": "2002-08-15",
+    "required_for_completing": null,
+    "requirements": null,
+    "recommended_requirements": null,
+    "rewards": null
+}

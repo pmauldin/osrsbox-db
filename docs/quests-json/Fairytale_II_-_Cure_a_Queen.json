@@ -1,0 +1,47 @@
+{
+    "id": "Fairytale_II_-_Cure_a_Queen",
+    "name": "Fairytale II - Cure a Queen",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Experienced",
+    "length": "Short \u2013 Medium",
+    "series": [
+        "Fairy Tale (#2)"
+    ],
+    "description": "The Fairy Queen should be awake and back in charge of the Lost City by now, but what is happening in Zanaris? Why hasn't the Fairy Godfather abdicated the throne?\n\nWhat is happening to all the fairy inhabitants and where has Fairy Nuff gone? Can you rise to the challenge of using the fairy rings to search the other planes and Cure a Queen, in the second part of the Fairy Tale trilogy?",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Fairytale_II_-_Cure_a_Queen.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Fairytale_II_-_Cure_a_Queen",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Fairytale_II_-_Cure_a_Queen/Quick_guide",
+    "developer": "Greg V",
+    "release_date": "2006-07-11",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Thieving",
+                "level": 40
+            },
+            {
+                "name": "Farming",
+                "level": 49
+            },
+            {
+                "name": "Herblore",
+                "level": 57
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Fairytale I - Growing Pains",
+            "Lost City",
+            "Nature Spirit",
+            "The Restless Ghost",
+            "Priest in Peril"
+        ],
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

@@ -1,0 +1,58 @@
+{
+    "id": "Tai_Bwo_Wannai_Trio",
+    "name": "Tai Bwo Wannai Trio",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Intermediate",
+    "length": "Long",
+    "series": [
+        "Karamja"
+    ],
+    "description": "In Jungle Potion, the Shaman Trufitus communed with the gods to determine the fate of his people.\n\nNow, Timfraku, the Chief of Tai Bwo Wannai, wishes to see his people and family return to the abandoned village.\n\nHelp a depressed fisherman, encourage a raging hunter and satiate an eccentric priest in this extreme test of aptitude and patience!",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Tai_Bwo_Wannai_Trio.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Tai_Bwo_Wannai_Trio",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Tai_Bwo_Wannai_Trio/Quick_guide",
+    "developer": "Rahul V",
+    "release_date": "2004-09-14",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Agility",
+                "level": 15
+            },
+            {
+                "name": "Cooking",
+                "level": 30
+            },
+            {
+                "name": "Fishing",
+                "level": 5
+            }
+        ],
+        "items": null,
+        "quests": [
+            "Jungle Potion"
+        ],
+        "misc": [
+            "The ability to defeat a level 53 enemy",
+            "A Method of Range or Mage attack to acquire a Monkey's corpse.",
+            "{{Ironman}} {{Skill clickpic|Herblore|34}} Herblore to create the Agility potion. Otherwise, you'll need to get it elsewhere as a monster drop."
+        ]
+    },
+    "recommended_requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Firemaking",
+                "level": 30
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "rewards": null
+}

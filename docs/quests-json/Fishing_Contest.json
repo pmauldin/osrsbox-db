@@ -1,0 +1,33 @@
+{
+    "id": "Fishing_Contest",
+    "name": "Fishing Contest",
+    "members": true,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": [
+        "Dwarf"
+    ],
+    "description": "The mountain Dwarves' home would be an ideal way to get across White Wolf Mountain safely. However, the Dwarves aren't too fond of strangers. They will let you through if you can bring them a trophy. The trophy is the prize for the annual Hemenster fishing competition.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Fishing_Contest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Fishing_Contest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Fishing_Contest/Quick_guide",
+    "developer": "Paul Gower",
+    "release_date": "2002-05-28",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Fishing",
+                "level": 10
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}

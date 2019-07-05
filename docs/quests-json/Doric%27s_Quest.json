@@ -1,0 +1,31 @@
+{
+    "id": "Doric%27s_Quest",
+    "name": "Doric's Quest",
+    "members": false,
+    "type": "Quest",
+    "difficulty": "Novice",
+    "length": "Short",
+    "series": null,
+    "description": "Doric the dwarf is happy to let you use his anvils but first he would like you to run an errand for him.",
+    "start_point": null,
+    "image": "https://oldschool.runescape.wiki/w/File:Doric%27s_Quest.png",
+    "wiki_url": "https://oldschool.runescape.wiki/w/Doric%27s_Quest",
+    "wiki_quick_guide_url": "https://oldschool.runescape.wiki/w/Doric%27s_Quest/Quick_guide",
+    "developer": "Rob L",
+    "release_date": "2001-04-06",
+    "required_for_completing": null,
+    "requirements": {
+        "quest_points": null,
+        "skills": [
+            {
+                "name": "Mining",
+                "level": 15
+            }
+        ],
+        "items": null,
+        "quests": null,
+        "misc": null
+    },
+    "recommended_requirements": null,
+    "rewards": null
+}
