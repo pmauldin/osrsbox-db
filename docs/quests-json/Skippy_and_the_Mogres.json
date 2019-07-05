@@ -2,7 +2,7 @@
     "id": "Skippy_and_the_Mogres",
     "name": "Skippy and the Mogres",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Unknown Difficulty",
     "length": "Very short",
     "series": null,

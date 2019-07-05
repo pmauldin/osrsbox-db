@@ -2,7 +2,7 @@
     "id": "The_Mage_Arena",
     "name": "The Mage Arena",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Intermediate",
     "length": "Very Short",
     "series": null,

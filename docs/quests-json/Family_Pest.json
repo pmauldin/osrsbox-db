@@ -2,7 +2,7 @@
     "id": "Family_Pest",
     "name": "Family Pest",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Novice",
     "length": "Very short",
     "series": null,

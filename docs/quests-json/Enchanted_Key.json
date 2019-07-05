@@ -2,7 +2,7 @@
     "id": "Enchanted_Key",
     "name": "Enchanted Key",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Unknown Difficulty",
     "length": "Long",
     "series": null,

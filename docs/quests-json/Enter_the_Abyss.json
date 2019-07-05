@@ -2,7 +2,7 @@
     "id": "Enter_the_Abyss",
     "name": "Enter the Abyss",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Novice",
     "length": "Short \u2013 Long",
     "series": null,

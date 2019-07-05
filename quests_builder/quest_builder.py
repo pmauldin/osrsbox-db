@@ -55,13 +55,6 @@ class BuildQuest:
         self.quest_dict["name"] = self.quest_name
         self.quest_dict["wiki_url"] = builder_utils.construct_wiki_url(quest_id)
 
-        # Parse the wiki entry to determine the type of quest
-        is_miniquest = "is a [[miniquest]]" in self.wiki_text
-        if is_miniquest:
-            self.quest_dict["type"] = "Miniquest"
-        else:
-            self.quest_dict["type"] = "Quest"
-
         # Parse the wiki templates
         wiki_code = mwparserfromhell.parse(self.wiki_text)
         templates = wiki_code.filter_templates()
@@ -79,6 +72,9 @@ class BuildQuest:
 
             if "quick guide" in template_name:
                 self.quest_dict["wiki_quick_guide_url"] = builder_utils.construct_wiki_url(f"{quest_id}/Quick_guide")
+
+            if "miniquests" in template_name:
+                self.quest_dict["type"] = "Miniquest"
 
             # TODO Required Items
             # TODO Rewards

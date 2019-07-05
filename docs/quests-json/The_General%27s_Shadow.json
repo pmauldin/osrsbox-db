@@ -2,7 +2,7 @@
     "id": "The_General%27s_Shadow",
     "name": "The General's Shadow",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Unknown Difficulty",
     "length": "Medium",
     "series": null,

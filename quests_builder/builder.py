@@ -36,7 +36,10 @@ if __name__ == "__main__":
         quests_wiki_text = json.load(wiki_text_file)
 
     # Filter out non-quest entities
-    name_exclusion_list = ["Quests/", "Miniquests", "/Quick guide", "Category:", "User:", "Quest series"]
+    name_exclusion_list = [
+        "Quests/", "Miniquests", "/Quick guide",
+        "Category:", "User:", "Quest series", "Barbarian Training"
+    ]
 
     # Start processing items
     for quest_name, wiki_text in quests_wiki_text.items():

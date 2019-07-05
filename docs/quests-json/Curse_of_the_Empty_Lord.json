@@ -2,7 +2,7 @@
     "id": "Curse_of_the_Empty_Lord",
     "name": "Curse of the Empty Lord",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Unknown Difficulty",
     "length": "Medium",
     "series": null,

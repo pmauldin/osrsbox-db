@@ -2,7 +2,7 @@
     "id": "Bear_your_Soul",
     "name": "Bear your Soul",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Unknown Difficulty",
     "length": "Medium",
     "series": null,

@@ -37,7 +37,7 @@ class QuestDefinition:
     id: int = None
     name: str = None
     members: bool = True
-    type: str = None
+    type: str = "Quest"
     difficulty: str = None
     length: str = None
     series: str = None

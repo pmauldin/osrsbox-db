@@ -2,7 +2,7 @@
     "id": "Lair_of_Tarn_Razorlor",
     "name": "Lair of Tarn Razorlor",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Experienced",
     "length": "Medium (Very Short if using a Slayer ring to get to Tarn's Lair)",
     "series": null,

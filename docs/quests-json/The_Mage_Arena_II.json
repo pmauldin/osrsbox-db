@@ -2,7 +2,7 @@
     "id": "The_Mage_Arena_II",
     "name": "The Mage Arena II",
     "members": true,
-    "type": "Quest",
+    "type": "Miniquest",
     "difficulty": "Master",
     "length": "Short",
     "series": null,
