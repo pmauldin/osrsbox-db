@@ -20,10 +20,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
 import re
-import datetime
-from typing import List
 
-import dateparser
+from typing import List
 
 
 def clean_weight(value: str, item_id: int) -> float:
@@ -144,32 +142,7 @@ def clean_quest(value: str) -> List:
     return quest
 
 
-def clean_release_date(value: str) -> str:
-    """A helper method to convert the release date entry from an OSRS Wiki infobox.
 
-    The returned value will be a specifically formatted string: dd Month YYYY.
-    For example, 25 June 2017 or 01 November 2014.
-
-    :param value: The extracted raw wiki text.
-    :return release_date: A cleaned release date of an item.
-    """
-    release_date = value
-    release_date = release_date.strip()
-    release_date = release_date.replace("[", "")
-    release_date = release_date.replace("]", "")
-    try:
-        release_date = datetime.datetime.strptime(release_date, "%d %B %Y")
-        return release_date.date().isoformat()
-    except ValueError:
-        pass
-
-    try:
-        release_date = dateparser.parse(release_date)
-        release_date = release_date.date().isoformat()
-    except (ValueError, TypeError):
-        return None
-
-    return release_date
 
 
 def clean_tradeable(value: str) -> bool:

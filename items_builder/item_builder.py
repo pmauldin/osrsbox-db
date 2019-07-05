@@ -26,6 +26,7 @@ from deepdiff import DeepDiff
 import mwparserfromhell
 
 from osrsbox.items_api.item_definition import ItemDefinition
+from common_builder_tools import builder_utils
 from items_builder import infobox_cleaner
 
 
@@ -259,7 +260,7 @@ class BuildItem:
             wiki_url = wiki_url.replace("'", "%27")
             wiki_url = wiki_url.replace("&", "%26")
             wiki_url = wiki_url.replace("+", "%2B")
-            self.item_dict["url"] = f"https://oldschool.runescape.wiki/w/{wiki_url}"
+            self.item_dict["url"] = builder_utils.construct_wiki_url(wiki_url)
             self.item_dict["wiki_name"] = normalized_name
             # Set item status code
             self.status_code = int(self.normalized_names[str(self.item_dict["id"])][2])
@@ -275,7 +276,7 @@ class BuildItem:
             wiki_url = wiki_url.replace("'", "%27")
             wiki_url = wiki_url.replace("&", "%26")
             wiki_url = wiki_url.replace("+", "%2B")
-            self.item_dict["url"] = f"https://oldschool.runescape.wiki/w/{wiki_url}"
+            self.item_dict["url"] = builder_utils.construct_wiki_url(wiki_url)
             self.item_dict["wiki_name"] = self.item_dict["name"]
             # Set item status code, try/except as it may not be in list
             try:
@@ -390,9 +391,9 @@ class BuildItem:
         weight = None
         if self.current_version is not None:
             key = "weight" + str(self.current_version)
-            weight = self.extract_infobox_value(template, key)
+            weight = builder_utils.extract_template_value(template, key)
         if weight is None:
-            weight = self.extract_infobox_value(template, "weight")
+            weight = builder_utils.extract_template_value(template, "weight")
         if weight is not None:
             self.item_dict["weight"] = infobox_cleaner.clean_weight(weight, self.item_id)
 
@@ -400,9 +401,9 @@ class BuildItem:
         quest = None
         if self.current_version is not None:
             key = "quest" + str(self.current_version)
-            quest = self.extract_infobox_value(template, key)
+            quest = builder_utils.extract_template_value(template, key)
         if quest is None:
-            quest = self.extract_infobox_value(template, "quest")
+            quest = builder_utils.extract_template_value(template, "quest")
         if quest is not None:
             self.item_dict["quest_item"] = infobox_cleaner.clean_quest(quest)
 
@@ -410,19 +411,19 @@ class BuildItem:
         release_date = None
         if self.current_version is not None:
             key = "release" + str(self.current_version)
-            release_date = self.extract_infobox_value(template, key)
+            release_date = builder_utils.extract_template_value(template, key)
         if release_date is None:
-            release_date = self.extract_infobox_value(template, "release")
+            release_date = builder_utils.extract_template_value(template, "release")
         if release_date is not None:
-            self.item_dict["release_date"] = infobox_cleaner.clean_release_date(release_date)
+            self.item_dict["release_date"] = builder_utils.clean_release_date(release_date)
 
         # Determine if item has a store price ()
         store_price = None
         if self.current_version is not None:
             key = "store" + str(self.current_version)
-            store_price = self.extract_infobox_value(template, key)
+            store_price = builder_utils.extract_template_value(template, key)
         if store_price is None:
-            store_price = self.extract_infobox_value(template, "store")
+            store_price = builder_utils.extract_template_value(template, "store")
         if store_price is not None:
             self.item_dict["store_price"] = infobox_cleaner.clean_store_price(store_price)
 
@@ -430,9 +431,9 @@ class BuildItem:
         seller = None
         if self.current_version is not None:
             key = "seller" + str(self.current_version)
-            seller = self.extract_infobox_value(template, key)
+            seller = builder_utils.extract_template_value(template, key)
         if seller is None:
-            seller = self.extract_infobox_value(template, "seller")
+            seller = builder_utils.extract_template_value(template, "seller")
         if seller is not None:
             self.item_dict["seller"] = infobox_cleaner.clean_seller(seller)
 
@@ -440,9 +441,9 @@ class BuildItem:
         tradeable = None
         if self.current_version is not None:
             key = "tradeable" + str(self.current_version)
-            tradeable = self.extract_infobox_value(template, key)
+            tradeable = builder_utils.extract_template_value(template, key)
         if tradeable is None:
-            tradeable = self.extract_infobox_value(template, "tradeable")
+            tradeable = builder_utils.extract_template_value(template, "tradeable")
         if tradeable is not None:
             self.item_dict["tradeable"] = infobox_cleaner.clean_tradeable(tradeable)
         else:
@@ -452,17 +453,17 @@ class BuildItem:
         examine = None
         if self.current_version is not None:
             key = "examine" + str(self.current_version)
-            examine = self.extract_infobox_value(template, key)
+            examine = builder_utils.extract_template_value(template, key)
         if examine is None:
-            examine = self.extract_infobox_value(template, "examine")
+            examine = builder_utils.extract_template_value(template, "examine")
         if examine is not None:
             self.item_dict["examine"] = infobox_cleaner.clean_examine(examine, self.item_dict["name"])
         else:
             # Being here means the extraction for "examine" failed
             key = "itemexamine" + str(self.current_version)
-            examine = self.extract_infobox_value(template, key)
+            examine = builder_utils.extract_template_value(template, key)
             if examine is None:
-                examine = self.extract_infobox_value(template, "itemexamine")
+                examine = builder_utils.extract_template_value(template, "itemexamine")
             if examine is not None:
                 self.item_dict["examine"] = infobox_cleaner.clean_examine(examine, self.item_dict["name"])
 
@@ -478,24 +479,6 @@ class BuildItem:
                 self.item_dict["buy_limit"] = None
 
         return True
-
-    def extract_infobox_value(self, template: mwparserfromhell.nodes.template.Template, key: str) -> str:
-        """Helper method to extract a value from a template using a specified key.
-
-        This helper method is a simple solution to repeatedly try to fetch a specific
-        entry from a wiki text template (a mwparserfromhell template object).
-
-        :param template: A mediawiki wiki text template.
-        :param key: The key to query in the template.
-        :return value: The extracted template value based on supplied key.
-        """
-        value = None
-        try:
-            value = template.get(key).value
-            value = value.strip()
-            return value
-        except ValueError:
-            return value
 
     def extract_bonuses(self) -> bool:
         """Extract the infobox bonuses template from raw wikitext.
@@ -613,11 +596,11 @@ class BuildItem:
         # Try and get the versioned infobox value
         if self.current_version is not None:
             key = prop + str(self.current_version)
-            value = self.extract_infobox_value(template, key)
+            value = builder_utils.extract_template_value(template, key)
 
         # If unsuccessful, try and get the normal infoxbox value
         if value is None:
-            value = self.extract_infobox_value(template, prop)
+            value = builder_utils.extract_template_value(template, prop)
 
         if value is not None:
             value = self.strip_infobox(value)
