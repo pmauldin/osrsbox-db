@@ -15,7 +15,7 @@
     "release_date": "2005-05-04",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 43,
         "skills": [
             {
                 "name": "Firemaking",
@@ -32,9 +32,7 @@
         ],
         "items": null,
         "quests": null,
-        "misc": [
-            "43 Quest Points"
-        ]
+        "misc": null
     },
     "recommended_requirements": null,
     "rewards": null

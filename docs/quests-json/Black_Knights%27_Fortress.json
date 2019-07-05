@@ -15,12 +15,11 @@
     "release_date": "2001-04-06",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 12,
         "skills": null,
         "items": null,
         "quests": null,
         "misc": [
-            "12 Quest Points",
             "The ability to evade level 33 Black Knights"
         ]
     },

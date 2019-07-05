@@ -17,7 +17,7 @@
     "release_date": "2002-02-27",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 55,
         "skills": [
             {
                 "name": "Cooking",
@@ -45,8 +45,7 @@
             "Druidic Ritual"
         ],
         "misc": [
-            "A partner",
-            "55 Quest Points"
+            "A partner"
         ]
     },
     "recommended_requirements": null,

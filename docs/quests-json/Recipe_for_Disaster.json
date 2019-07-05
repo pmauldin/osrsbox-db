@@ -15,7 +15,7 @@
     "release_date": "2006-03-15",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 175,
         "skills": [
             {
                 "name": "Cooking",
@@ -117,7 +117,6 @@
         ],
         "misc": [
             "All prerequisite quest requirements",
-            "175 Quest Points",
             "The ability to defeat many high level monsters without Prayer"
         ]
     },

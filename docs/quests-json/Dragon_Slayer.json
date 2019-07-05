@@ -17,7 +17,7 @@
     "release_date": "2001-09-23",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 32,
         "skills": [
             {
                 "name": "Crafting",
@@ -27,7 +27,6 @@
         "items": null,
         "quests": null,
         "misc": [
-            "32 Quest Points",
             "The ability to defeat a level 83 Elvarg|dragon"
         ]
     },

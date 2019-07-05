@@ -178,14 +178,19 @@ class BuildQuest:
 
             if "quest points" in req_lower:
                 if len(req_templates) == 0:
-                    misc_requirements.append(quest_helper.clean_display_string(req))
+                    cleaned_req = quest_helper.clean_display_string(req)
+                    quest_points = quest_points.lower().replace("quest points").strip()
+                    if quest_points.isdigit():
+                        self.quest_dict["requirements"]["quest_points"] = int(quest_points)
+                    else:
+                        misc_requirements.append(cleaned_req)
                     continue
 
                 skill_template = req_templates[0]
                 skill_req = quest_helper.get_skill_requirement(skill_template, req)
 
                 if skill_req:
-                    misc_requirements.append(f"{skill_req['level']} Quest Points")
+                    self.quest_dict["requirements"]["quest_points"] = skill_req["level"]
                     continue
 
             # Mark that we're entering a section with quest requirements

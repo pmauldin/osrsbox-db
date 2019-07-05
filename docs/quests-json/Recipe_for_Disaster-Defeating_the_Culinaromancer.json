@@ -15,7 +15,7 @@
     "release_date": "2006-03-15",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 175,
         "skills": null,
         "items": null,
         "quests": [
@@ -40,7 +40,6 @@
             "Recipe for Disaster/Freeing King Awowogei"
         ],
         "misc": [
-            "175 Quest Points",
             "The ability to defeat '''all''' enemies without Prayer"
         ]
     },

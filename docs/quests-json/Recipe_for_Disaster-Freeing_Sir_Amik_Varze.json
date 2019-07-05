@@ -15,7 +15,7 @@
     "release_date": "2006-03-15",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 107,
         "skills": null,
         "items": null,
         "quests": [
@@ -35,7 +35,6 @@
             "Waterfall Quest"
         ],
         "misc": [
-            "107 Quest Points",
             "Access to the Kharazi Jungle",
             "The ability to defeat a level 227 Black dragon"
         ]

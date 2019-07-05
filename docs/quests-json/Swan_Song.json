@@ -17,7 +17,7 @@
     "release_date": "2006-05-02",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 100,
         "skills": [
             {
                 "name": "Magic",
@@ -57,7 +57,6 @@
             "The Restless Ghost"
         ],
         "misc": [
-            "100 Quest Points",
             "The ability to defeat a combat level 170 monster, which is able to use Magic, Melee and can drain Prayer."
         ]
     },

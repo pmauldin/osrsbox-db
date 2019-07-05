@@ -17,7 +17,7 @@
     "release_date": "2005-10-17",
     "required_for_completing": null,
     "requirements": {
-        "quest_points": null,
+        "quest_points": 32,
         "skills": null,
         "items": null,
         "quests": [
@@ -30,7 +30,6 @@
             "Priest in Peril"
         ],
         "misc": [
-            "32 Quest Points",
             "The ability to defeat a level 33 Black Knight."
         ]
     },

@@ -39,6 +39,11 @@ if __name__ == "__main__":
     with open(wiki_titles_file_path) as wiki_titles_file:
         quest_titles = json.load(wiki_titles_file).keys()
 
+    # Ensure the output directory exists
+    output_dir = Path(config.DOCS_PATH / "quests-json" / "")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     # Filter out non-quest entities
     name_exclusion_list = [
         "Quests", "Quest ", "Miniquest", "Quick guide",
@@ -56,12 +61,6 @@ if __name__ == "__main__":
 
         # Start the build quest population method
         quest_definition = builder.populate()
-
-        output_dir = Path(config.DOCS_PATH / "quests-json" / "")
-
-        # Ensure the output directory exists
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
 
         # Actually output a JSON file, comment out for testing
         quest_definition.export_json(True, output_dir)

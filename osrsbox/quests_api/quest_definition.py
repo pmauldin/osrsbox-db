@@ -34,13 +34,13 @@ class QuestDefinition:
     The QuestDefinition class is the object that retains all properties for one
     specific quest. Every quest has the properties defined in this class.
     """
-    id: int = None
+    id: str = None
     name: str = None
     members: bool = True
     type: str = "Quest"
     difficulty: str = None
     length: str = None
-    series: str = None
+    series: List[str] = None
     description: str = None
     start_point: str = None
     image: str = None
